@@ -1,0 +1,32 @@
+[
+  {
+    "label": "General partner",
+    "items": [
+      {
+        "name": "Google",
+        "url": "https://www.google.com/",
+        "logo": "../../images/partners/google.svg"
+      }
+    ]
+  },
+  {
+    "label": "Media partner",
+    "items": [
+      {
+        "name": "Google",
+        "url": "https://www.google.com/",
+        "logo": "../../images/partners/google.svg"
+      },
+      {
+        "name": "Google",
+        "url": "https://www.google.com/",
+        "logo": "../../images/partners/google.svg"
+      },
+      {
+        "name": "Google",
+        "url": "https://www.google.com/",
+        "logo": "../../images/partners/google.svg"
+      }
+    ]
+  }
+]
