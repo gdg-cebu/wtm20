@@ -25,6 +25,12 @@ body {
     -moz-osx-font-smoothing: grayscale;
 }
 
+a,
+button {
+    font: inherit;
+    color: inherit;
+}
+
 /* fallback */
 @font-face {
     font-family: 'Material Icons';

@@ -20,9 +20,11 @@ export default class PhotoGrid extends Component {
                     <h3>#ioxcebu18 highlights</h3>
                     <p>This year's festival built lots of excitement. Check out photos from featured talks, hands-on learning sessions, and after-hours fun.</p>
 
-                    <Button class={style.seePhotos} outlined>
-                        See all photos
-                    </Button>
+                    <a href="#" target="_blank" rel="noopener noreferrer">
+                        <Button class={style.seePhotos} outlined>
+                            See all photos
+                        </Button>
+                    </a>
                 </section>
             </div>
         );
