@@ -1,5 +1,6 @@
 import { Component } from 'preact';
 import logo from '../../images/io.svg';
+import heroImage from '../../images/hero-image.jpg';
 import style from './style';
 
 export default class Hero extends Component {
@@ -12,6 +13,10 @@ export default class Hero extends Component {
                         I/O brings together developers from around the globe for talks, hands-on
                         learning with Google experts, and a first look at Google’s latest developer products.
                     </h2>
+                </div>
+
+                <div class={style.heroImage}>
+                    <img src={heroImage} alt="Google I/O Extended Cebu 2019" />
                 </div>
             </section>
         );
