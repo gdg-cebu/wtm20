@@ -1,5 +1,10 @@
 /* Specificy Hack -_- */
 .hero.hero {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    flex-wrap: wrap;
+    padding: 60px 24px;
     padding-top: 120px;
 }
 
@@ -7,26 +12,38 @@
     width: 160px;
 }
 
+.details {
+    flex: 1;
+    max-width: 500px;
+}
+
 .description {
     font-weight: 400;
 }
 
 .heroImage {
-    clip-path: polygon(100% 0, 100% 100%, 0 100%, 0 50%, 25% 50%, 25% 25%, 50% 25%, 50% 0, 0 0);
-}
-
-.heroImage img {
-    display: block;
-    width: 100%;
+    flex: 1;
+    width: calc(100% + 48px);
+    height: 400px;
+    margin: 0 -24px;
+    object-fit: cover;
+    object-position: center center;
 }
 
 /* preact-material-components' breakpoint for desktop */
 @media (min-width: 840px) {
-    .hero {
-        padding: 60px 100px;
+    .hero.hero {
+        padding-left: 100px;
+        padding-right: 100px;
     }
 
     .heroImage {
         grid-column-start: 7;
+        width: 0;
+        max-width: 600px;
+        height: auto;
+        margin: 0;
+        margin-left: 60px;
+        clip-path: polygon(100% 0, 100% 100%, 0 100%, 0 50%, 25% 50%, 25% 25%, 50% 25%, 50% 0, 0 0);
     }
 }

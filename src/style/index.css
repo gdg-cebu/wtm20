@@ -1,4 +1,17 @@
-html, body {
+* {
+    box-sizing: border-box;
+}
+
+:root {
+    --primary-color: #1a73e8;
+    --primary-color-dark: #174ea6;
+    --primary-color-light: #d2e3fc;
+
+    --mdc-theme-primary: var(--primary-color);
+}
+
+html,
+body {
     height: 100%;
     width: 100%;
     padding: 0;
@@ -34,10 +47,6 @@ html, body {
     direction: ltr;
     -webkit-font-feature-settings: 'liga';
     -webkit-font-smoothing: antialiased;
-}
-
-* {
-    box-sizing: border-box;
 }
 
 #app {

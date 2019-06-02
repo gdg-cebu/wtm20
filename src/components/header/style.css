@@ -16,8 +16,8 @@
 
 .linkActive {
     border-radius: 8px;
-    color: #174ea6;
-    background-color: #d2e3fc;
+    color: var(--primary-color-dark);
+    background-color: var(--primary-color-light);
 }
 
 .link:not(:first-child) {
