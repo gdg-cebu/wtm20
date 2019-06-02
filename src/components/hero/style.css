@@ -1,6 +1,5 @@
 /* Specificy Hack -_- */
 .hero.hero {
-    padding: 60px 100px;
     padding-top: 120px;
 }
 
@@ -23,6 +22,10 @@
 
 /* preact-material-components' breakpoint for desktop */
 @media (min-width: 840px) {
+    .hero {
+        padding: 60px 100px;
+    }
+
     .heroImage {
         grid-column-start: 7;
     }
