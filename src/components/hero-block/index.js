@@ -1,9 +1,9 @@
 import { Component } from 'preact';
+import style from './style';
 import logo from '../../images/io.svg';
 import heroImage from '../../images/hero-image.jpg';
-import style from './style';
 
-export default class Hero extends Component {
+export default class HeroBlock extends Component {
     render() {
         return (
             <section class={style.hero}>

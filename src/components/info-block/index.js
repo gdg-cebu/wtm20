@@ -4,7 +4,7 @@ import InfoStat from '../info-stat';
 import 'preact-material-components/LayoutGrid/style.css';
 import style from './style';
 
-export default class HomeInfo extends Component {
+export default class InfoBlock extends Component {
     render() {
         return (
             <LayoutGrid class={style.info}>
