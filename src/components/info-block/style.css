@@ -14,6 +14,20 @@
     grid-gap: 24px;
 }
 
+.stat .value {
+    margin: 0;
+    margin-bottom: 8px;
+    font-size: 50px;
+}
+
+.stat .value::after {
+    content: "";
+    display: block;
+    width: 64px;
+    height: 4px;
+    background-color: var(--primary-color);
+}
+
 /* preact-material-components' breakpoint for desktop */
 @media (min-width: 840px) {
     .info {

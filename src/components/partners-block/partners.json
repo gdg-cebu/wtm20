@@ -5,7 +5,7 @@
       {
         "name": "Google",
         "url": "https://www.google.com/",
-        "logo": "../../images/partners/google.svg"
+        "logo": "/assets/partners/google.svg"
       }
     ]
   },
@@ -15,17 +15,17 @@
       {
         "name": "Google",
         "url": "https://www.google.com/",
-        "logo": "../../images/partners/google.svg"
+        "logo": "/assets/partners/google.svg"
       },
       {
         "name": "Google",
         "url": "https://www.google.com/",
-        "logo": "../../images/partners/google.svg"
+        "logo": "/assets/partners/google.svg"
       },
       {
         "name": "Google",
         "url": "https://www.google.com/",
-        "logo": "../../images/partners/google.svg"
+        "logo": "/assets/partners/google.svg"
       }
     ]
   }
