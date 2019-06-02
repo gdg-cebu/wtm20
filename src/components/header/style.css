@@ -1,0 +1,28 @@
+.topAppBar {
+    padding: 0 100px;
+    background-color: #fff;
+}
+
+.topAppBarRow {
+    height: 72px;
+}
+
+.link {
+    padding: 8px 12px;
+    text-decoration: none;
+    color: #5f6368;
+}
+
+.linkActive {
+    border-radius: 8px;
+    color: #174ea6;
+    background-color: #d2e3fc;
+}
+
+.link:not(:first-child) {
+    margin-left: 8px;
+}
+
+.link:last-child {
+    margin-right: -16px;
+}
