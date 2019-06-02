@@ -1,3 +1,7 @@
+.info {
+    padding: 80px 24px;
+}
+
 .text h2 {
     margin-top: 0;
     font-size: 32px;
@@ -13,7 +17,12 @@
 /* preact-material-components' breakpoint for desktop */
 @media (min-width: 840px) {
     .info {
-        padding: 60px 100px;
+        padding-left: 100px;
+        padding-right: 100px;
+    }
+
+    .text {
+        max-width: 700px;
     }
 
     .stats {

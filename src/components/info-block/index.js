@@ -9,7 +9,7 @@ export default class InfoBlock extends Component {
         return (
             <LayoutGrid class={style.info}>
                 <LayoutGrid.Inner>
-                    <LayoutGrid.Cell tabletCols="12" desktopCols="5" class={style.text}>
+                    <LayoutGrid.Cell tabletCols="12" desktopCols="6" class={style.text}>
                         <h2>What you need to know, before you ask</h2>
 
                         <p>
