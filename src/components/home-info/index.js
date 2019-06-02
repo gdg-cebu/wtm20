@@ -1,5 +1,6 @@
 import { Component } from 'preact';
 import LayoutGrid from 'preact-material-components/LayoutGrid';
+import InfoStat from '../info-stat';
 import 'preact-material-components/LayoutGrid/style.css';
 import style from './style';
 
@@ -8,7 +9,7 @@ export default class HomeInfo extends Component {
         return (
             <LayoutGrid class={style.info}>
                 <LayoutGrid.Inner>
-                    <LayoutGrid.Cell cols="6">
+                    <LayoutGrid.Cell tabletCols="12" desktopCols="6" class={style.text}>
                         <h2>What you need to know, before you ask</h2>
 
                         <p>
@@ -19,6 +20,12 @@ export default class HomeInfo extends Component {
                             Our team creates Google I/O Extended to be the best place for experience sharing in a
                             phenomenal atmosphere.
                         </p>
+                    </LayoutGrid.Cell>
+
+                    <LayoutGrid.Cell tabletCols="12" desktopCols="5" class={style.stats}>
+                        <InfoStat value="800+" label="Attendees" />
+                        <InfoStat value="1" label="Day" />
+                        <InfoStat value="4" label="Breakout Sessions" />
                     </LayoutGrid.Cell>
                 </LayoutGrid.Inner>
             </LayoutGrid>

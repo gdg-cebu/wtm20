@@ -1,0 +1,13 @@
+.value {
+    margin: 0;
+    margin-bottom: 8px;
+    font-size: 50px;
+}
+
+.value::after {
+    content: "";
+    display: block;
+    width: 64px;
+    height: 4px;
+    background-color: #2196F3;
+}

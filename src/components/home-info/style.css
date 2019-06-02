@@ -1,3 +1,22 @@
 .info {
     padding: 50px 100px;
 }
+
+.text h2 {
+    margin-top: 0;
+    font-size: 32px;
+    font-weight: 400;
+}
+
+.stats {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    grid-gap: 24px;
+}
+
+/* preact-material-components' breakpoint for desktop */
+@media (min-width: 840px) {
+    .stats {
+        grid-column-start: 8;
+    }
+}
