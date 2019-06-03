@@ -2,6 +2,7 @@ import { Component } from 'preact';
 import { Router } from 'preact-router';
 
 import Home from '../routes/home';
+import Speakers from '../routes/speakers';
 import NotFound from '../routes/404';
 import Header from './header';
 import Footer from './footer';
@@ -16,6 +17,7 @@ export default class App extends Component {
                 <Header />
 				<Router>
 					<Home path="/" />
+                    <Speakers path="/speakers/" />
 					<NotFound default />
 				</Router>
 
