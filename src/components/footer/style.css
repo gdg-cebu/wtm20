@@ -1,0 +1,16 @@
+.footer {
+    padding: 40px 100px;
+    background-color: #fafafa;
+}
+
+.footer img {
+    display: block;
+    max-height: 100px;
+}
+
+@media (min-width: 840px) {
+    .social {
+        padding-left: 100px;
+        padding-right: 100px;
+    }
+}
