@@ -1,5 +1,5 @@
 .speakers {
-    padding: 100px;
+    padding: 100px 24px;
     padding-top: 160px;
 }
 
@@ -16,4 +16,13 @@
     max-width: 700px;
     font-size: 20px;
     font-weight: 400;
+
+    margin-bottom: 100px;
+}
+
+@media (min-width: 840px) {
+    .speakers {
+        padding-left: 100px;
+        padding-right: 100px;
+    }
 }

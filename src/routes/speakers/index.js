@@ -1,4 +1,5 @@
 import style from './style';
+import SpeakersBlock from '../../components/speakers-block';
 import logo from '../../images/io.svg';
 
 const Speakers = () => (
@@ -9,6 +10,8 @@ const Speakers = () => (
             Learn Google's latest developer products from Googlers, Google Developer Experts,
             guest speakers and more.
         </h2>
+
+        <SpeakersBlock />
     </div>
 );
 
