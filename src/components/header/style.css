@@ -9,13 +9,18 @@
 
 .link {
     padding: 8px 12px;
+    border-radius: 8px;
     font-size: 16px;
     text-decoration: none;
     color: #5f6368;
 }
 
+.link:not(.linkActive):hover,
+.link:not(.linkActive):focus {
+    background-color: #f4f8ff;
+}
+
 .linkActive {
-    border-radius: 8px;
     color: var(--primary-color-dark);
     background-color: var(--primary-color-light);
 }
