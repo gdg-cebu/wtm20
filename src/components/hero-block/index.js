@@ -1,6 +1,5 @@
 import style from './style';
-import Button from 'preact-material-components/Button';
-import 'preact-material-components/Button/style';
+import ButtonLink from '../button-link';
 import logo from '../../images/io.svg';
 import heroImage from '../../images/hero-image.jpg';
 
@@ -15,7 +14,7 @@ const HeroBlock = () => (
 
             <h3>July 20, 2019 &middot; J Centre, Mandaue City</h3>
 
-            <a class={style.button} href="#">Register Now</a>
+            <ButtonLink href="#">Register Now</ButtonLink>
         </div>
 
         <img class={style.heroImage} src={heroImage} alt="Google I/O Extended Cebu 2019" />
