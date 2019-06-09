@@ -7,9 +7,9 @@ const SocialBlock = () => (
             <p>Keep in touch with GDG Cebu for the latest I/O Extended announcements.</p>
 
             <div class={style.links}>
-                <a href="#" target="_blank" rel="noopener noreferrer" class="facebook">Facebook</a>
-                <a href="#" target="_blank" rel="noopener noreferrer" class="twitter">Twitter</a>
-                <a href="#" target="_blank" rel="noopener noreferrer" class="meetup">Meetup</a>
+                <a href="https://www.facebook.com/gdgcebuorg/" target="_blank" rel="noopener noreferrer" class="facebook">Facebook</a>
+                <a href="https://twitter.com/gdgcebu" target="_blank" rel="noopener noreferrer" class="twitter">Twitter</a>
+                <a href="https://www.meetup.com/GDGCebu/" target="_blank" rel="noopener noreferrer" class="meetup">Meetup</a>
             </div>
         </div>
 

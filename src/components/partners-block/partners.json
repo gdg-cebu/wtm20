@@ -8,25 +8,5 @@
         "logo": "/assets/partners/google.svg"
       }
     ]
-  },
-  {
-    "label": "Media partner",
-    "items": [
-      {
-        "name": "Google",
-        "url": "https://www.google.com/",
-        "logo": "/assets/partners/google.svg"
-      },
-      {
-        "name": "Google",
-        "url": "https://www.google.com/",
-        "logo": "/assets/partners/google.svg"
-      },
-      {
-        "name": "Google",
-        "url": "https://www.google.com/",
-        "logo": "/assets/partners/google.svg"
-      }
-    ]
   }
 ]
