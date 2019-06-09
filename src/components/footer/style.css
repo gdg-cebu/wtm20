@@ -3,7 +3,7 @@
     background-color: #fafafa;
 }
 
-.footer img {
+.footer picture {
     display: block;
     max-height: 60px;
     margin: 0 auto;
@@ -14,7 +14,7 @@
         padding: 20px 100px;
     }
 
-    .footer img {
+    .footer picture {
         max-height: 80px;
         margin: 0;
     }

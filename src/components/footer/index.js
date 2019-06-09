@@ -1,9 +1,11 @@
 import style from './style';
-import logo from '../../images/gdg-cebu.png';
 
 const Footer = () => (
     <footer class={style.footer}>
-        <img src={logo} />
+        <picture>
+            <source src="/assets/gdg-cebu.webp" type="webp" />
+            <img src="/assets/gdg-cebu.png" alt="GDG Cebu Logo" />
+        </picture>
     </footer>
 );
 

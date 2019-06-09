@@ -1,7 +1,6 @@
 import style from './style';
 import ButtonLink from '../button-link';
 import logo from '../../images/io.svg';
-import heroImage from '../../images/hero-image.jpg';
 
 const HeroBlock = () => (
     <section class={style.hero}>
@@ -17,7 +16,10 @@ const HeroBlock = () => (
             <ButtonLink href="#">Register Now</ButtonLink>
         </div>
 
-        <img class={style.heroImage} src={heroImage} alt="Google I/O Extended Cebu 2019" />
+        <picture class={style.heroImage}>
+            <source src="/assets/hero-image.webp" type="image/webp" />
+            <img src="/assets/hero-image.jpg" alt="Google I/O Extended Cebu 2019" />
+        </picture>
     </section>
 );
 
