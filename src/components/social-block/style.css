@@ -9,7 +9,6 @@
 }
 
 .social .text {
-    max-width: 520px;
     font-size: 20px;
 }
 
@@ -43,7 +42,8 @@
 }
 
 .social img {
-    max-width: 80%;
+    width: 80%;
+    max-width: 340px;
     margin: 0 auto;
     margin-top: 24px;
 }
@@ -54,7 +54,14 @@
         padding-bottom: 100px;
     }
 
+    .social .text {
+        width: 50%;
+        max-width: 520px;
+    }
+
     .social img {
+        width: 50%;
         max-width: 340px;
+        margin: 0;
     }
 }

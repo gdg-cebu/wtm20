@@ -32,3 +32,44 @@
 .link:last-child {
     margin-right: -16px;
 }
+
+.drawer :global(.mdc-drawer) {
+    width: 300px;
+    max-width: 300px;
+}
+
+.drawerHeader {
+    padding: 24px;
+    padding-bottom: 12px;
+    border-bottom: 1px solid #dadce0;
+}
+
+.drawerHeader img {
+    width: 70px;
+    margin-bottom: 12px;
+}
+
+.drawerHeader h2,
+.drawerHeader h3 {
+    margin: 0;
+    font-weight: 400;
+}
+
+.drawerHeader h2 {
+    font-size: 18px;
+}
+
+.drawerHeader h3 {
+    font-size: 15px;
+}
+
+.drawer :global(.mdc-list-item) {
+    font-size: 15px;
+    font-weight: 400;
+    color: #444;
+}
+
+.drawer :global(.mdc-list-item--activated) {
+    color: var(--primary-color-dark);
+    /* background-color: var(--primary-color-light); */
+}
