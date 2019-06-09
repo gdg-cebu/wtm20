@@ -1,7 +1,6 @@
 import { Component } from 'preact';
 import { Link } from 'preact-router/match';
 import Drawer from 'preact-material-components/Drawer';
-import List from 'preact-material-components/List';
 import TopAppBar from 'preact-material-components/TopAppBar';
 import 'preact-material-components/Drawer/style';
 import 'preact-material-components/List/style';
@@ -22,11 +21,19 @@ class Header extends Component {
             <header>
                 <TopAppBar class={style.topAppBar}>
                     <TopAppBar.Row class={style.topAppBarRow}>
-                        <TopAppBar.Section align-end>
-                            <button onClick={this.openDrawer}>Click</button>
+                        <TopAppBar.Section align-start>
+                            <TopAppBar.Icon
+                                class={style.icon}
+                                onClick={this.openDrawer}
+                                navigation
+                            >
+                                menu
+                            </TopAppBar.Icon>
+                        </TopAppBar.Section>
+                        <TopAppBar.Section class={style.navigation} align-end>
                             <Link class={style.link} activeClassName={style.linkActive} href="/">Home</Link>
-                            <Link class={style.link} activeClassName={style.linkActive} href="/speakers">Speakers</Link>
-                            <Link class={style.link} activeClassName={style.linkActive} href="/sessions">Sessions</Link>
+                            {/* <Link class={style.link} activeClassName={style.linkActive} href="/speakers">Speakers</Link>
+                            <Link class={style.link} activeClassName={style.linkActive} href="/sessions">Sessions</Link> */}
                         </TopAppBar.Section>
                     </TopAppBar.Row>
                 </TopAppBar>

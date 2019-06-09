@@ -8,6 +8,7 @@
     --primary-color-light: #d2e3fc;
 
     --mdc-theme-primary: var(--primary-color);
+    --mdc-theme-on-primary: #444;
 }
 
 html,

@@ -1,10 +1,14 @@
 .topAppBar {
-    padding: 0 100px;
     background-color: #fff;
 }
 
 .topAppBarRow {
     height: 72px;
+}
+
+.navigation {
+    display: none;
+    padding-right: 100px;
 }
 
 .link {
@@ -27,10 +31,6 @@
 
 .link:not(:first-child) {
     margin-left: 8px;
-}
-
-.link:last-child {
-    margin-right: -16px;
 }
 
 .drawer :global(.mdc-drawer) {
@@ -71,5 +71,14 @@
 
 .drawer :global(.mdc-list-item--activated) {
     color: var(--primary-color-dark);
-    /* background-color: var(--primary-color-light); */
+}
+
+@media (min-width: 840px) {
+    .icon {
+        display: none;
+    }
+
+    .navigation {
+        display: inline-flex;
+    }
 }
