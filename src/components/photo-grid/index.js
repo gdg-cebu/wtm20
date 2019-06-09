@@ -17,8 +17,8 @@ const PhotoGrid = () => (
             <h3>#ioxcebu18 highlights</h3>
             <p>This year's festival built lots of excitement. Check out photos from featured talks, hands-on learning sessions, and after-hours fun.</p>
 
-            <a href="#" target="_blank" rel="noopener noreferrer">
-                <Button class={style.seePhotos} outlined>
+            <a href="https://www.facebook.com/pg/gdgcebuorg/photos/" target="_blank" rel="noopener noreferrer">
+                <Button class={style.seePhotos} tabIndex="-1" outlined>
                     See all photos
                 </Button>
             </a>
