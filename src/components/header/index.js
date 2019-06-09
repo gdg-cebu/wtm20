@@ -1,4 +1,5 @@
 import { Component } from 'preact';
+import { route } from 'preact-router';
 import { Link } from 'preact-router/match';
 import Drawer from 'preact-material-components/Drawer';
 import TopAppBar from 'preact-material-components/TopAppBar';
@@ -16,7 +17,12 @@ class Header extends Component {
     openDrawer = () => this.setState({drawerOpened: true});
     closeDrawer = () => this.setState({drawerOpened: false});
 
-    render() {
+    linkTo = path => {
+        route(path);
+        this.closeDrawer();
+    };
+
+    render({currentRoute}) {
         return (
             <header>
                 <TopAppBar class={style.topAppBar}>
@@ -50,7 +56,9 @@ class Header extends Component {
                         <h3>J Centre, Mandaue City</h3>
                     </Drawer.DrawerHeader>
                     <Drawer.DrawerContent>
-                        <Drawer.DrawerItem selected>Home</Drawer.DrawerItem>
+                        <Drawer.DrawerItem selected={currentRoute === '/'} onClick={() => this.linkTo('/')}>
+                            Home
+                        </Drawer.DrawerItem>
                     </Drawer.DrawerContent>
                 </Drawer>
             </header>

@@ -2,10 +2,6 @@
     background-color: #fff;
 }
 
-.topAppBarRow {
-    height: 72px;
-}
-
 .navigation {
     display: none;
     padding-right: 100px;
