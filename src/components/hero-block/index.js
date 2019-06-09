@@ -13,7 +13,7 @@ const HeroBlock = () => (
                 learning with Google experts, and a first look at Google’s latest developer products.
             </h2>
 
-            <h3>July 20, 2019 &middot; J Centre Mall, Mandaue City</h3>
+            <h3>July 20, 2019 &middot; J Centre, Mandaue City</h3>
 
             <a class={style.button} href="#">Register Now</a>
         </div>

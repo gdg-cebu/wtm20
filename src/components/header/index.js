@@ -4,7 +4,7 @@ import 'preact-material-components/TopAppBar/style.css';
 import style from './style';
 
 const Header = () => (
-    <TopAppBar class={style.topAppBar} fixed>
+    <TopAppBar class={style.topAppBar}>
         <TopAppBar.Row class={style.topAppBarRow}>
             <TopAppBar.Section align-end>
                 <Link class={style.link} activeClassName={style.linkActive} href="/">Home</Link>

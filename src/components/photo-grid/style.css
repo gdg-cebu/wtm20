@@ -9,7 +9,7 @@
     grid-gap: 2px;
 
     height: calc(100vh + 160px);
-    padding: 80px 0;
+    padding: 50px 0;
 }
 
 .photoGrid img {
@@ -74,8 +74,8 @@ button.seePhotos.seePhotos {
             ". . . . ."
             ". . content content ."
             ". . . . .";
-        padding-left: 2px;
-        padding-right: 2px;
+
+        padding: 80px 2px;
     }
 
     .photoGrid img:nth-child(1),
