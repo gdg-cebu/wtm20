@@ -16,10 +16,7 @@ const HeroBlock = () => (
             <ButtonLink href="#">Register Now</ButtonLink>
         </div>
 
-        <picture class={style.heroImage}>
-            <source src="/assets/hero-image.webp" type="image/webp" />
-            <img src="/assets/hero-image.jpg" alt="Google I/O Extended Cebu 2019" />
-        </picture>
+        <img class={style.heroImage} src="/assets/hero-image.jpg" alt="Google I/O Extended Cebu 2019" />
     </section>
 );
 
