@@ -13,7 +13,7 @@ const HeroBlock = () => (
 
             <h3>July 20, 2019 &middot; J Centre, Mandaue City</h3>
 
-            <ButtonLink href="#">Register Now</ButtonLink>
+            <ButtonLink href="https://www.eventbrite.com/e/google-io-extended-cebu-2019-tickets-63569676614">Register Now</ButtonLink>
         </div>
 
         <img class={style.heroImage} src="/assets/hero-image.jpg" alt="Google I/O Extended Cebu 2019" />
