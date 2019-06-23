@@ -1,0 +1,21 @@
+.schedule {
+    padding: 100px 24px;
+    padding-top: 160px;
+}
+
+.logo {
+    width: 160px;
+}
+
+.title {
+    font-size: 40px;
+    font-weight: 400;
+    margin-bottom: 100px;
+}
+
+@media (min-width: 840px) {
+    .schedule {
+        padding-left: 100px;
+        padding-right: 100px;
+    }
+}

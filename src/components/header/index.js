@@ -38,8 +38,8 @@ class Header extends Component {
                         </TopAppBar.Section>
                         <TopAppBar.Section class={style.navigation} align-end>
                             <Link class={style.link} activeClassName={style.linkActive} href="/">Home</Link>
-                            {/* <Link class={style.link} activeClassName={style.linkActive} href="/speakers">Speakers</Link>
-                            <Link class={style.link} activeClassName={style.linkActive} href="/sessions">Sessions</Link> */}
+                            <Link class={style.link} activeClassName={style.linkActive} href="/speakers">Speakers</Link>
+                            <Link class={style.link} activeClassName={style.linkActive} href="/schedule">Schedule</Link>
                         </TopAppBar.Section>
                     </TopAppBar.Row>
                 </TopAppBar>

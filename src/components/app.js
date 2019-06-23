@@ -3,6 +3,7 @@ import { Router } from 'preact-router';
 
 import Home from '../routes/home';
 import Speakers from '../routes/speakers';
+import Schedule from '../routes/schedule';
 import NotFound from '../routes/404';
 import Header from './header';
 import Footer from './footer';
@@ -24,6 +25,7 @@ export default class App extends Component {
 				<Router onChange={this.handleRoute}>
 					<Home path="/" />
                     <Speakers path="/speakers/" />
+                    <Schedule path="/schedule/" />
 					<NotFound default />
 				</Router>
 
