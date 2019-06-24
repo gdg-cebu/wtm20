@@ -1,0 +1,118 @@
+{
+  "9:00": [{
+    "duration": "15 mins",
+    "session": "101",
+    "full": true
+  }],
+  "9:15": [{
+    "duration": "30 mins",
+    "session": "102",
+    "full": true
+  }],
+  "9:45": [{
+    "duration": "30 mins",
+    "session": "103",
+    "full": true
+  }],
+  "10:15": [{
+    "duration": "20 mins",
+    "session": "104",
+    "full": true
+  }],
+  "10:35": [{
+    "duration": "15 mins",
+    "session": "105",
+    "full": true
+  }],
+  "10:50": [{
+    "duration": "15 mins",
+    "session": "106",
+    "full": true
+  }],
+  "11:05": [{
+    "duration": "15 mins",
+    "session": "107",
+    "full": true
+  }],
+  "11:20": [{
+    "duration": "10 mins",
+    "session": "108",
+    "full": true
+  }],
+  "11:30": [{
+    "duration": "30 mins",
+    "session": "109",
+    "full": true
+  }],
+  "12:00": [{
+    "duration": "60 mins",
+    "session": "110",
+    "full": true
+  }],
+  "13:00": [{
+    "duration": "90 mins",
+    "session": "111",
+    "span": 6
+  }, {
+    "duration": "75 mins",
+    "session": "112",
+    "span": 5
+  }, {
+    "duration": "60 mins",
+    "session": "113",
+    "span": 4
+  }, {
+    "duration": "90 mins",
+    "session": "114",
+    "span": 6
+  }],
+  "14:00": [{
+    "duration": "60 mins",
+    "session": "115",
+    "span": 4
+  }],
+  "14:15": [{
+    "duration": "75 mins",
+    "session": "116",
+    "span": 5
+  }],
+  "14:30": [{
+    "duration": "195 mins",
+    "session": "117",
+    "span": 13
+  }, {
+    "duration": "45 mins",
+    "session": "118",
+    "span": 3
+  }],
+  "15:00": [{
+    "duration": "60 mins",
+    "session": "119",
+    "span": 4
+  }],
+  "15:15": [{
+    "duration": "75 mins",
+    "session": "120",
+    "span": 5
+  }],
+  "15:30": [{
+    "duration": "120 mins",
+    "session": "121",
+    "span": 8
+  }],
+  "16:00": [{
+    "duration": "60 mins",
+    "session": "122",
+    "span": 4
+  }],
+  "16:30": [{
+    "duration": "60 mins",
+    "session": "123",
+    "span": 4
+  }],
+  "17:45": [{
+    "duration": "15 mins",
+    "session": "124",
+    "full": true
+  }]
+}
