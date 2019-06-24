@@ -1,6 +1,6 @@
 import ScheduleItem from '../schedule-item';
 import style from './style';
-import schedule from './schedule.json';
+import schedule from '../../data/schedule.json';
 
 const ScheduleBlock = () => {
     const children = [];

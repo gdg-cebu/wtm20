@@ -1,5 +1,5 @@
 import style from './style';
-import sessions from '../schedule-block/sessions.json';
+import sessions from '../../data/sessions.json';
 
 const ScheduleItem = ({session}) => {
     const data = sessions[session.session];

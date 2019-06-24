@@ -1,5 +1,5 @@
 import style from './style';
-import partners from './partners.json';
+import partners from '../../data/partners.json';
 
 const Partner = ({partner}) => (
     <a href={partner.url} target="_blank" rel="noopener noreferrer">
