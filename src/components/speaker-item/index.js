@@ -7,10 +7,10 @@ const formatBio = bio => {
 
 const SpeakerItem = ({speaker}) => (
     <div class={style.speaker}>
-        <img src={speaker.image} alt={speaker.name} />
+        <img src={speaker.photo} alt={speaker.name} />
 
         <h3>{speaker.name}</h3>
-        <h4>{speaker.position}</h4>
+        <h4>{speaker.position}, {speaker.company}</h4>
 
         <p>{formatBio(speaker.bio)}</p>
     </div>

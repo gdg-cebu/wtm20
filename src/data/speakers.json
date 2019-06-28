@@ -1,0 +1,93 @@
+{
+  "frances-marie-teves": {
+    "name": "Frances Marie Teves",
+    "position": "Community Manager",
+    "company": "GDG Cebu",
+    "photo": "/assets/speakers/frances-marie-teves.jpg",
+    "bio": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam sodales nunc vel semper dignissim. Morbi vel mauris nec eros placerat aliquam at vitae ex. Proin facilisis imperdiet elit, quis molestie dui bibendum molestie. Etiam ut justo ac erat scelerisque rhoncus. Suspendisse eros dolor, placerat mattis ultrices sed, tincidunt sit amet lectus."
+  },
+  "julius-uy": {
+    "name": "Julius Uy",
+    "position": "Engineering Manager",
+    "company": "Rakuten Viki",
+    "photo": "/assets/speakers/julius-uy.jpg",
+    "bio": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam sodales nunc vel semper dignissim. Morbi vel mauris nec eros placerat aliquam at vitae ex. Proin facilisis imperdiet elit, quis molestie dui bibendum molestie. Etiam ut justo ac erat scelerisque rhoncus. Suspendisse eros dolor, placerat mattis ultrices sed, tincidunt sit amet lectus."
+  },
+  "franchette-camoro": {
+    "name": "Franchette Camoro",
+    "position": "Fullstack Developer",
+    "company": "Symph",
+    "photo": "/assets/speakers/franchette-camoro.jpg",
+    "bio": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam sodales nunc vel semper dignissim. Morbi vel mauris nec eros placerat aliquam at vitae ex. Proin facilisis imperdiet elit, quis molestie dui bibendum molestie. Etiam ut justo ac erat scelerisque rhoncus. Suspendisse eros dolor, placerat mattis ultrices sed, tincidunt sit amet lectus."
+  },
+  "albert-padin": {
+    "name": "Albert Padin",
+    "position": "Co-Founder & CTO",
+    "company": "Symph",
+    "photo": "/assets/speakers/albert-padin.jpg",
+    "bio": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam sodales nunc vel semper dignissim. Morbi vel mauris nec eros placerat aliquam at vitae ex. Proin facilisis imperdiet elit, quis molestie dui bibendum molestie. Etiam ut justo ac erat scelerisque rhoncus. Suspendisse eros dolor, placerat mattis ultrices sed, tincidunt sit amet lectus."
+  },
+  "steve-seongug-jung": {
+    "name": "Steve SeongUg Jung",
+    "position": "Android Engineer Manager",
+    "company": "Grab",
+    "photo": "/assets/speakers/steve-seongug-jung.jpg",
+    "bio": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam sodales nunc vel semper dignissim. Morbi vel mauris nec eros placerat aliquam at vitae ex. Proin facilisis imperdiet elit, quis molestie dui bibendum molestie. Etiam ut justo ac erat scelerisque rhoncus. Suspendisse eros dolor, placerat mattis ultrices sed, tincidunt sit amet lectus."
+  },
+  "ralph-vincent-regalado": {
+    "name": "Ralph Vincent Regalado",
+    "position": "Founder & CEO",
+    "company": "Senti",
+    "photo": "/assets/speakers/ralph-vincent-regalado.jpg",
+    "bio": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam sodales nunc vel semper dignissim. Morbi vel mauris nec eros placerat aliquam at vitae ex. Proin facilisis imperdiet elit, quis molestie dui bibendum molestie. Etiam ut justo ac erat scelerisque rhoncus. Suspendisse eros dolor, placerat mattis ultrices sed, tincidunt sit amet lectus."
+  },
+  "sean-urgel": {
+    "name": "Sean Urgel",
+    "position": "Fullstack Developer",
+    "company": "Symph",
+    "photo": "/assets/speakers/sean-urgel.jpg",
+    "bio": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam sodales nunc vel semper dignissim. Morbi vel mauris nec eros placerat aliquam at vitae ex. Proin facilisis imperdiet elit, quis molestie dui bibendum molestie. Etiam ut justo ac erat scelerisque rhoncus. Suspendisse eros dolor, placerat mattis ultrices sed, tincidunt sit amet lectus."
+  },
+  "arnelle-balane": {
+    "name": "Arnelle Balane",
+    "position": "Software Developer",
+    "company": "Newlogic",
+    "photo": "/assets/speakers/arnelle-balane.jpg",
+    "bio": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam sodales nunc vel semper dignissim. Morbi vel mauris nec eros placerat aliquam at vitae ex. Proin facilisis imperdiet elit, quis molestie dui bibendum molestie. Etiam ut justo ac erat scelerisque rhoncus. Suspendisse eros dolor, placerat mattis ultrices sed, tincidunt sit amet lectus."
+  },
+  "henry-lim": {
+    "name": "Henry Lim",
+    "position": "Frontend Web Developer",
+    "company": "Apppi",
+    "photo": "/assets/speakers/henry-lim.jpg",
+    "bio": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam sodales nunc vel semper dignissim. Morbi vel mauris nec eros placerat aliquam at vitae ex. Proin facilisis imperdiet elit, quis molestie dui bibendum molestie. Etiam ut justo ac erat scelerisque rhoncus. Suspendisse eros dolor, placerat mattis ultrices sed, tincidunt sit amet lectus."
+  },
+  "jecelyn-yeen": {
+    "name": "Jecelyn Yeen",
+    "position": "Software Architect",
+    "company": "Randstad Malaysia",
+    "photo": "/assets/speakers/jecelyn-yeen.jpg",
+    "bio": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam sodales nunc vel semper dignissim. Morbi vel mauris nec eros placerat aliquam at vitae ex. Proin facilisis imperdiet elit, quis molestie dui bibendum molestie. Etiam ut justo ac erat scelerisque rhoncus. Suspendisse eros dolor, placerat mattis ultrices sed, tincidunt sit amet lectus."
+  },
+  "shang-yi-lim": {
+    "name": "Shang Yi Lim",
+    "position": "Senior Software Development Engineer",
+    "company": "IdealHub",
+    "photo": "/assets/speakers/shang-yi-lim.jpg",
+    "bio": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam sodales nunc vel semper dignissim. Morbi vel mauris nec eros placerat aliquam at vitae ex. Proin facilisis imperdiet elit, quis molestie dui bibendum molestie. Etiam ut justo ac erat scelerisque rhoncus. Suspendisse eros dolor, placerat mattis ultrices sed, tincidunt sit amet lectus."
+  },
+  "ren-stanforth": {
+    "name": "Ren Stanforth",
+    "position": "",
+    "company": "",
+    "photo": "/assets/speakers/ren-stanforth.jpg",
+    "bio": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam sodales nunc vel semper dignissim. Morbi vel mauris nec eros placerat aliquam at vitae ex. Proin facilisis imperdiet elit, quis molestie dui bibendum molestie. Etiam ut justo ac erat scelerisque rhoncus. Suspendisse eros dolor, placerat mattis ultrices sed, tincidunt sit amet lectus."
+  },
+  "dennis-alund": {
+    "name": "Dennis Alund",
+    "position": "Founder",
+    "company": "Kumpul Coworking Space",
+    "photo": "/assets/speakers/dennis-alund.jpg",
+    "bio": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam sodales nunc vel semper dignissim. Morbi vel mauris nec eros placerat aliquam at vitae ex. Proin facilisis imperdiet elit, quis molestie dui bibendum molestie. Etiam ut justo ac erat scelerisque rhoncus. Suspendisse eros dolor, placerat mattis ultrices sed, tincidunt sit amet lectus."
+  }
+}

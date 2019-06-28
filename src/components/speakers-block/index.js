@@ -1,10 +1,10 @@
 import style from './style';
 import SpeakerItem from '../speaker-item';
-import speakers from './speakers.json';
+import speakers from '../../data/speakers.json';
 
 const SpeakersBlock = () => (
     <section class={style.grid}>
-        {speakers.map(speaker => (
+        {Object.values(speakers).map(speaker => (
             <SpeakerItem speaker={speaker} />
         ))}
     </section>
