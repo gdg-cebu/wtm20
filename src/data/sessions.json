@@ -1,24 +1,43 @@
 {
   "101": {
-    "title": "Opening and Introduction"
+    "title": "Opening and Introduction",
+    "speakers": [
+      "frances-marie-teves"
+    ]
   },
   "102": {
-    "title": "Keynote: Google I/O 2019 Keynote"
+    "title": "Keynote: Google I/O 2019 Keynote",
+    "speakers": [
+      "julius-uy"
+    ]
   },
   "103": {
     "title": "Keynote: Technology Updates in 2019"
   },
   "104": {
-    "title": "The I/O Experience"
+    "title": "The I/O Experience",
+    "speakers": [
+      "frances-marie-teves",
+      "franchette-camoro"
+    ]
   },
   "105": {
-    "title": "The Web and Cloud"
+    "title": "The Web and Cloud",
+    "speakers": [
+      "albert-padin"
+    ]
   },
   "106": {
-    "title": "All Things Mobile"
+    "title": "All Things Mobile",
+    "speakers": [
+      "steve-seongug-jung"
+    ]
   },
   "107": {
-    "title": "Machine Learning and IoT"
+    "title": "Machine Learning and IoT",
+    "speakers": [
+      "ralph-vincent-regalado"
+    ]
   },
   "108": {
     "title": "Community Updates: WTM, GDG, GBG,  Womenwill"
@@ -30,43 +49,83 @@
     "title": "Lunch"
   },
   "111": {
-    "title": "Women Techmakers: #IAmRemarkable"
+    "title": "Women Techmakers: #IAmRemarkable",
+    "speakers": [
+      "frances-marie-teves",
+      "franchette-camoro"
+    ]
   },
   "112": {
-    "title": "Android talk"
+    "title": "Android talk",
+    "speakers": [
+      "julius-uy"
+    ]
   },
   "113": {
-    "title": "What's new in Chrome and the Web"
+    "title": "What's new in Chrome and the Web",
+    "speakers": [
+      "arnelle-balane"
+    ]
   },
   "114": {
-    "title": "Cloud AI, TensorFlow, ML in Production"
+    "title": "Cloud AI, TensorFlow, ML in Production",
+    "speakers": [
+      "ralph-vincent-regalado"
+    ]
   },
   "115": {
-    "title": "Anything Web + Firebase"
+    "title": "Anything Web + Firebase",
+    "speakers": [
+      "henry-lim"
+    ]
   },
   "116": {
-    "title": "Kotlin Coroutines on Android, Android Q"
+    "title": "Kotlin Coroutines on Android, Android Q",
+    "speakers": [
+      "steve-seongug-jung"
+    ]
   },
   "117": {
-    "title": "Cloud Study Jams + Google App Engine, Firebase, and Firestore (with live demos)"
+    "title": "Cloud Study Jams + Google App Engine, Firebase, and Firestore (with live demos)",
+    "speakers": [
+      "albert-padin"
+    ]
   },
   "118": {
-    "title": "Google IoT"
+    "title": "Google + IoT",
+    "speakers": [
+      "ren-stanforth"
+    ]
   },
   "119": {
-    "title": "Anything Web + Firebase"
+    "title": "Anything Web + Firebase",
+    "speakers": [
+      "jecelyn-yeen"
+    ]
   },
   "120": {
-    "title": "Building engaging experiences with Actions on Google"
+    "title": "Building engaging experiences with Actions on Google",
+    "speakers": [
+      "dennis-alund"
+    ]
   },
   "121": {
-    "title": "All About Flutter, Workshop on Flutter (Zero to Hero)"
+    "title": "All About Flutter, Workshop on Flutter (Zero to Hero)",
+    "speakers": [
+      "sean-urgel"
+    ]
   },
   "122": {
-    "title": "Anything Web + Firebase"
+    "title": "Anything Web + Firebase",
+    "speakers": [
+      "shang-yi-lim"
+    ]
   },
   "123": {
-    "title": "Assistant: Building your Smart Home"
+    "title": "Assistant: Building your Smart Home",
+    "speakers": [
+      "franchette-camoro"
+    ]
   },
   "124": {
     "title": "Raffle and Closing Remarks"
