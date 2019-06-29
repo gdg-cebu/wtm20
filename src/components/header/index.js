@@ -38,8 +38,8 @@ class Header extends Component {
                         </TopAppBar.Section>
                         <TopAppBar.Section class={style.navigation} align-end>
                             <Link class={style.link} activeClassName={style.linkActive} href="/">Home</Link>
-                            <Link class={style.link} activeClassName={style.linkActive} href="/speakers">Speakers</Link>
-                            <Link class={style.link} activeClassName={style.linkActive} href="/schedule">Schedule</Link>
+                            <Link class={style.link} activeClassName={style.linkActive} href="/speakers/">Speakers</Link>
+                            <Link class={style.link} activeClassName={style.linkActive} href="/schedule/">Schedule</Link>
                         </TopAppBar.Section>
                     </TopAppBar.Row>
                 </TopAppBar>
@@ -58,6 +58,12 @@ class Header extends Component {
                     <Drawer.DrawerContent>
                         <Drawer.DrawerItem selected={currentRoute === '/'} onClick={() => this.linkTo('/')}>
                             Home
+                        </Drawer.DrawerItem>
+                        <Drawer.DrawerItem selected={currentRoute === '/speakers/'} onClick={() => this.linkTo('/speakers/')}>
+                            Speakers
+                        </Drawer.DrawerItem>
+                        <Drawer.DrawerItem selected={currentRoute === '/schedule/'} onClick={() => this.linkTo('/schedule/')}>
+                            Schedule
                         </Drawer.DrawerItem>
                     </Drawer.DrawerContent>
                 </Drawer>
