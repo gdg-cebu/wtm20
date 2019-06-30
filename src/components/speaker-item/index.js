@@ -5,8 +5,8 @@ const formatBio = bio => {
     return bio.length === 200 ? bio + '...' : bio;
 };
 
-const SpeakerItem = ({speaker}) => (
-    <div class={style.speaker}>
+const SpeakerItem = ({speaker, onClick}) => (
+    <div class={style.speaker} onClick={onClick}>
         <img src={speaker.photo} alt={speaker.name} />
 
         <h3>{speaker.name}</h3>
