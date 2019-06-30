@@ -1,12 +1,24 @@
 .schedule {
     display: grid;
     grid-template-columns: [timeslot] 80px repeat(4, 1fr);
-    grid-auto-rows: minmax(50px, min-content);
+    grid-auto-rows: minmax(50px, max-content);
     grid-gap: 16px;
 }
 
 .schedule time {
     grid-column: timeslot;
-    margin-top: 25px;
-    font-weight: 700;
+    margin-top: 20px;
+    font-size: 24px;
+    font-weight: 400;
+}
+
+@media (max-width: 1000px) {
+    .schedule {
+        grid-template-columns: 1fr;
+    }
+
+    .schedule time {
+        grid-column: initial;
+        grid-row-end: initial !important;
+    }
 }
