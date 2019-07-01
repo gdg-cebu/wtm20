@@ -12,7 +12,10 @@
     ]
   },
   "103": {
-    "title": "Keynote: Technology Updates in 2019"
+    "title": "Keynote: Now Anyone Can Build An App",
+    "speakers": [
+      "albert-padin"
+    ]
   },
   "104": {
     "title": "The Google I/O Experience",
@@ -22,112 +25,103 @@
     ]
   },
   "105": {
-    "title": "The Web and Cloud",
-    "speakers": [
-      "albert-padin"
-    ]
+    "title": "Morning Session Remarks & Group Photo"
   },
   "106": {
-    "title": "All Things Mobile",
+    "title": "Lunch"
+  },
+  "107": {
+    "title": "Flutter: An Introduction",
+    "speakers": [
+      "sean-urgel"
+    ]
+  },
+  "108": {
+    "title": "Coroutines for Android Developers",
+    "speakers": [
+      "desmond-teo"
+    ]
+  },
+  "109": {
+    "title": "Android Compose",
     "speakers": [
       "steve-seongug-jung"
     ]
   },
-  "107": {
-    "title": "Machine Learning and IoT",
+  "110": {
+    "title": "Video Codecs for Android Q",
     "speakers": [
-      "ralph-vincent-regalado"
+      "julius-uy"
     ]
   },
-  "108": {
-    "title": "Community Updates: WTM, GDG, GBG,  Womenwill"
-  },
-  "109": {
-    "title": "Morning Session Remarks & Group Photo"
-  },
-  "110": {
-    "title": "Lunch"
-  },
   "111": {
+    "title": "What's new in Chrome and the Web",
+    "speakers": [
+      "arnelle-balane"
+    ]
+  },
+  "112": {
+    "title": "What's New in Firebase",
+    "speakers": [
+      "shang-yi-lim"
+    ]
+  },
+  "113": {
+    "title": "Bringing your PWA to the Google Play Store with TWA",
+    "speakers": [
+      "henry-lim"
+    ]
+  },
+  "114": {
+    "title": "Need for Speed: Web Performance Optimization",
+    "speakers": [
+      "jecelyn-yeen"
+    ]
+  },
+  "115": {
+    "title": "Building engaging experiences with Actions on Google",
+    "speakers": [
+      "dennis-alund"
+    ]
+  },
+  "116": {
+    "title": "Assistant: Building your Smart Home",
+    "speakers": [
+      "franchette-camoro"
+    ]
+  },
+  "117": {
+    "title": "TensorFlow Lite: On-Device ML and the Model Optimization Toolkit",
+    "speakers": [
+      "jason-zaman"
+    ]
+  },
+  "118": {
+    "title": "Machine Learning for JavaScript Applications",
+    "speakers": [
+      "ren-stanforth"
+    ]
+  },
+  "119": {
+    "title": "Workshop on Machine Learning and TensorFlow",
+    "speakers": [
+      "albert-padin"
+    ]
+  },
+  "120": {
+    "title": "All About Flutter, Workshop on Flutter (Zero to Hero)",
+    "speakers": [
+      "sean-urgel"
+    ]
+  },
+  "121": {
     "title": "Women Techmakers: #IAmRemarkable",
     "speakers": [
       "frances-marie-teves",
       "franchette-camoro"
     ]
   },
-  "112": {
-    "title": "Android talk",
-    "speakers": [
-      "julius-uy"
-    ]
-  },
-  "113": {
-    "title": "What's new in Chrome and the Web",
-    "speakers": [
-      "arnelle-balane"
-    ]
-  },
-  "114": {
-    "title": "Cloud AI, TensorFlow, ML in Production",
-    "speakers": [
-      "ralph-vincent-regalado"
-    ]
-  },
-  "115": {
-    "title": "Bringing your PWA to the Google Play Store with TWA",
-    "speakers": [
-      "henry-lim"
-    ]
-  },
-  "116": {
-    "title": "Kotlin Coroutines on Android, Android Q",
-    "speakers": [
-      "steve-seongug-jung"
-    ]
-  },
-  "117": {
-    "title": "Cloud Study Jams + Google App Engine, Firebase, and Firestore (with live demos)",
-    "speakers": [
-      "albert-padin"
-    ]
-  },
-  "118": {
-    "title": "Google + IoT",
-    "speakers": [
-      "ren-stanforth"
-    ]
-  },
-  "119": {
-    "title": "Need for Speed: Web Performance Optimization",
-    "speakers": [
-      "jecelyn-yeen"
-    ]
-  },
-  "120": {
-    "title": "Building engaging experiences with Actions on Google",
-    "speakers": [
-      "dennis-alund"
-    ]
-  },
-  "121": {
-    "title": "All About Flutter, Workshop on Flutter (Zero to Hero)",
-    "speakers": [
-      "sean-urgel"
-    ]
-  },
   "122": {
-    "title": "What's New in Firebase",
-    "speakers": [
-      "shang-yi-lim"
-    ]
-  },
-  "123": {
-    "title": "Assistant: Building your Smart Home",
-    "speakers": [
-      "franchette-camoro"
-    ]
-  },
-  "124": {
     "title": "Raffle and Closing Remarks"
   }
 }

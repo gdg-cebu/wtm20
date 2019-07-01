@@ -89,5 +89,19 @@
     "company": "Kumpul Coworking Space",
     "photo": "/assets/speakers/dennis-alund.jpg",
     "bio": "Dennis is a software developer and community enthusiast who started to explore programming in his teenage years, long before he owned a computer of his own. He went to study computer science at university and has been living and working as a freelance software consultant in Indonesia since 2009. His passion for active citizenship and community empowerment has manifested itself as Kumpul coworking space (www.kumpul.co). It is the first coworking space in Bali to bring in collaboration with government, national partners and community programs to the island. He has been actively involved in initiating Google community programs such as Indonesia Android Kejar and GDG Bali. He is now mostly active in Oddbit (www.oddbit.id), a consultancy agency that develops software solutions with focus on Firebase."
+  },
+  "jason-zaman": {
+    "name": "Jason Zaman",
+    "position": "Gentoo Linux and Android Developer",
+    "company": "",
+    "photo": "/assets/speakers/jason-zaman.jpg",
+    "bio": "Jason is community lead for TensorFlow SIG-Build and an ML-GDE. He works as a machine learning engineer at Light doing computational photography in mobile cameras. Along with speaking regularly, he is also active in Open Source as a Gentoo Linux developer and maintainer of the SELinux Project."
+  },
+  "desmond-teo": {
+    "name": "Desmond Teo",
+    "position": "Android Developer",
+    "company": "Rakuten Viki",
+    "photo": "/assets/speakers/desmond-teo.jpg",
+    "bio": "Android developer at Rakuten Viki, working on delivering the best app experience for millions of fans around the world. Was an iOS developer before that, but fell in love with Android and the passionate community around the platform. Outside of tech, loves nature and the outdoors. Huge fan of football and Liverpool FC."
   }
 }
