@@ -34,13 +34,6 @@
     "photo": "/assets/speakers/steve-seongug-jung.jpg",
     "bio": "Since 2010, I have been developing Android Applications for consumer and enterprise. I started my career working at Daou Tech developing various applications such as messenger, calendar, email, and Mobile Application Management Service (including web). Since Dec. 2014, I became lead Android Developer at Toss Lab, Inc., an enterprise communications startup focused on the Asian market. I have contributed to the Android libraries such as Robolectric-Gradle and Engine-io-java-client. I have experience giving lectures on development. I have taught Agile to Ticket Monster developers and Open Source operations and ?contributions? to college students and professors. I enjoy helping others so feel free to ask for help. My specialities include android TDD, Good Architectures, Agile, XP, Cl, etc. I hope I can help."
   },
-  "ralph-vincent-regalado": {
-    "name": "Ralph Vincent Regalado",
-    "position": "Founder & CEO",
-    "company": "Senti",
-    "photo": "/assets/speakers/ralph-vincent-regalado.jpg",
-    "bio": "Ralph Vincent Regalado, is the CEO and Founder of Senti, a localized text analytics and artificial intelligence company. He is an active volunteer that contributes to the growth of the tech community in the Philippines as he is the Community Manager of Google Developers Group Philippines and was an organizer of Startup Weekend Manila. He worked as an Assistant Professor and Natural Language Processing researcher at De La Salle University, Manila. His research works are focused on applying Natural Language Processing to aid in the development of technologies for the Philippine Languages, sentiment analysis, and disaster management."
-  },
   "sean-urgel": {
     "name": "Sean Urgel",
     "position": "Fullstack Developer",
