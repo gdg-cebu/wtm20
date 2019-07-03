@@ -8,5 +8,15 @@
         "logo": "/assets/partners/google.svg"
       }
     ]
+  },
+  {
+    "label": "Special thanks",
+    "items": [
+      {
+        "name": "Arcanys",
+        "url": "https://www.arcanys.com/",
+        "logo": "/assets/partners/arcanys.png"
+      }
+    ]
   }
 ]
