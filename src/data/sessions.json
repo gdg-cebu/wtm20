@@ -37,19 +37,19 @@
     ]
   },
   "108": {
-    "title": "Coroutines for Android Developers",
+    "title": "Kotlin Coroutines for Android Developers",
     "speakers": [
       "desmond-teo"
     ]
   },
   "109": {
-    "title": "Android Compose",
+    "title": "Jetpack Compose",
     "speakers": [
       "steve-seongug-jung"
     ]
   },
   "110": {
-    "title": "Video Codecs for Android Q",
+    "title": "Android Q and the Advances in Video Codecs",
     "speakers": [
       "julius-uy"
     ]
