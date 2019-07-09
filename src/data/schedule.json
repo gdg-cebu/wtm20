@@ -44,16 +44,16 @@
   }, {
     "duration": "2 hours",
     "session": "119",
-    "span": 9
+    "span": 8
   }],
   "14:00": [{
     "duration": "60 mins",
     "session": "108",
     "span": 4
   }, {
-    "duration": "60 mins",
-    "session": "112",
-    "span": 4
+    "duration": "75 mins",
+    "session": "114",
+    "span": 5
   }],
   "14:15": [{
     "duration": "60 mins",
@@ -65,27 +65,27 @@
     "session": "109",
     "span": 5
   }, {
+    "duration": "2 hours",
+    "session": "120",
+    "span": "8"
+  }],
+  "15:15": [{
     "duration": "75 mins",
     "session": "113",
     "span": 5
-  }],
-  "15:15": [{
+  }, {
     "duration": "90 mins",
     "session": "117",
     "span": 6
-  }, {
-    "duration": "90 mins",
-    "session": "120",
-    "span": "9"
   }],
   "16:15": [{
     "duration": "75 mins",
     "session": "110",
     "span": 5
   }, {
-    "duration": "75 mins",
-    "session": "114",
-    "span": 5
+    "duration": "60 mins",
+    "session": "112",
+    "span": 4
   }],
   "16:45": [{
     "duration": "45 mins",
