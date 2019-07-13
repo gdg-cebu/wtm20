@@ -3,7 +3,7 @@ import partners from '../../data/partners.json';
 
 const Partner = ({partner}) => (
     <a href={partner.url} target="_blank" rel="noopener noreferrer">
-        <img src={partner.logo} />
+        <img src={partner.logo} style={{'max-height': `${partner.height || 42}px`}} />
     </a>
 );
 

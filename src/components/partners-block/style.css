@@ -11,6 +11,7 @@
 .group {
     display: flex;
     flex-wrap: wrap;
+    align-items: center;
 }
 
 .group h3 {
