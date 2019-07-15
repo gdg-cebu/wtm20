@@ -38,10 +38,10 @@
     "label": "Amazing supporters",
     "items": [
       {
-        "name": "DTI",
-        "url": "https://www.dti.gov.ph/",
-        "logo": "/assets/partners/dti.png",
-        "height": 72
+        "name": "DICT",
+        "url": "https://dict.gov.ph/",
+        "logo": "/assets/partners/dict.png",
+        "height": 68
       },
       {
         "name": "Bubble Tea Station",
