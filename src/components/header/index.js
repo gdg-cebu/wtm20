@@ -6,7 +6,8 @@ import TopAppBar from 'preact-material-components/TopAppBar';
 import 'preact-material-components/Drawer/style';
 import 'preact-material-components/List/style';
 import 'preact-material-components/TopAppBar/style';
-import logo from '../../images/io.svg';
+import event from '../../data/event.json';
+import logo from '../../images/devfest-logo.svg';
 import style from './style';
 
 class Header extends Component {
@@ -51,9 +52,9 @@ class Header extends Component {
                     onClose={this.closeDrawer}
                 >
                     <Drawer.DrawerHeader class={style.drawerHeader}>
-                        <img src={logo} alt="Google I/O Logo" />
-                        <h2>July 20, 2019</h2>
-                        <h3>J Centre, Mandaue City</h3>
+                        <img src={logo} alt={event.name} />
+                        <h2>{event.date}</h2>
+                        <h3>{event.venue}</h3>
                     </Drawer.DrawerHeader>
                     <Drawer.DrawerContent>
                         <Drawer.DrawerItem selected={currentRoute === '/'} onClick={() => this.linkTo('/')}>

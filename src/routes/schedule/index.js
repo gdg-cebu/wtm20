@@ -1,6 +1,6 @@
 import ScheduleBlock from '../../components/schedule-block';
 import style from './style';
-import logo from '../../images/io.svg';
+import logo from '../../images/devfest-logo.svg';
 
 const Schedule = () => (
     <div class={style.schedule}>
