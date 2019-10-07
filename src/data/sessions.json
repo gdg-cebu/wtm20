@@ -6,122 +6,123 @@
     ]
   },
   "102": {
-    "title": "Keynote: Google I/O 2019 Keynote",
+    "title": "Google Developer Keynote",
     "speakers": [
-      "julius-uy"
+      "shad-roi"
     ]
   },
   "103": {
-    "title": "Keynote: Now Anyone Can Build An App",
-    "speakers": [
-      "albert-padin"
-    ]
+    "title": "Technology Developer Keynote",
+    "speakers": []
   },
   "104": {
-    "title": "The Google I/O Experience",
+    "title": "WTM Diversity (Level Up) Keynote",
     "speakers": [
-      "frances-marie-teves",
-      "franchette-camoro"
+      "josan-astrid-chug"
     ]
   },
   "105": {
-    "title": "Morning Session Remarks & Group Photo"
-  },
-  "106": {
-    "title": "Lunch"
-  },
-  "107": {
-    "title": "Flutter: An Introduction",
+    "title": "Developer Student Clubs Cebu",
     "speakers": [
-      "sean-urgel"
+      "elram-espra",
+      "justin-po",
+      "vincent-alturas"
     ]
   },
+  "106": {
+    "title": "Sponsor Speaking Slot",
+    "speakers": []
+  },
+  "107": {
+    "title": "Lunch"
+  },
   "108": {
-    "title": "Kotlin Coroutines for Android Developers",
+    "title": "Women Techmakers: Talk",
     "speakers": [
-      "desmond-teo"
+      "franchette-camoro"
     ]
   },
   "109": {
-    "title": "Jetpack Compose",
-    "speakers": [
-      "steve-seongug-jung"
-    ]
+    "title": "Women Techmakers: Community Slot",
+    "speakers": []
   },
   "110": {
-    "title": "Android Q and the Advances in Video Codecs",
+    "title": "Women Techmakers: Talk",
     "speakers": [
-      "julius-uy"
+      "josan-astrid-chug"
     ]
   },
   "111": {
-    "title": "What's new in Chrome and the Web",
+    "title": "Women Techmakers: Community Slot",
+    "speakers": []
+  },
+  "112": {
+    "title": "Web Topic: Talk",
     "speakers": [
       "arnelle-balane"
     ]
   },
-  "112": {
-    "title": "Building a social media wall with Firebase and GCP",
-    "speakers": [
-      "shang-yi-lim"
-    ]
-  },
   "113": {
-    "title": "Bringing your PWA to the Google Play Store with TWA",
-    "speakers": [
-      "henry-lim"
-    ]
+    "title": "Web Topic: Community Slot",
+    "speakers": []
   },
   "114": {
-    "title": "Building a Fast and SEO Friendly SPA",
+    "title": "Web Topic: Talk",
     "speakers": [
-      "jecelyn-yeen"
+      "vin-lim"
     ]
   },
   "115": {
-    "title": "Building engaging experiences with Actions on Google",
-    "speakers": [
-      "dennis-alund"
-    ]
+    "title": "Web Topic: Community Slot",
+    "speakers": []
   },
   "116": {
-    "title": "Assistant: Building your Smart Home",
+    "title": "Android Topic: Talk",
     "speakers": [
-      "franchette-camoro"
+      "hassan-abid"
     ]
   },
   "117": {
-    "title": "TensorFlow Lite: On-Device ML and the Model Optimization Toolkit",
-    "speakers": [
-      "jason-zaman"
-    ]
+    "title": "Android Topic: Community Talk",
+    "speakers": []
   },
   "118": {
-    "title": "Machine Learning for JavaScript Applications",
-    "speakers": [
-      "ren-stanforth"
-    ]
-  },
-  "119": {
-    "title": "Workshop on Machine Learning and TensorFlow",
-    "speakers": [
-      "albert-padin"
-    ]
-  },
-  "120": {
-    "title": "All About Flutter, Workshop on Flutter (Zero to Hero)",
+    "title": "Flutter Topic: Talk",
     "speakers": [
       "sean-urgel"
     ]
   },
-  "121": {
-    "title": "Women Techmakers: #IAmRemarkable",
+  "119": {
+    "title": "Android Topic: Community Talk",
+    "speakers": []
+  },
+  "120": {
+    "title": "Machine Learning Topic: Talk",
     "speakers": [
-      "frances-marie-teves",
-      "franchette-camoro"
+      "albert-padin"
     ]
   },
+  "121": {
+    "title": "Machine Learning Topic: Community Slot",
+    "speakers": []
+  },
   "122": {
+    "title": "Machine Learning Topic: Talk",
+    "speakers": [
+      "faie-lomente"
+    ]
+  },
+  "123": {
+    "title": "Machine Learning Topic: Community Slot",
+    "speakers": []
+  },
+  "124": {
+    "title": "Open Forum and Q&A"
+  },
+  "125": {
+    "title": "Closing Keynote"
+  },
+  "126": {
     "title": "Raffle and Closing Remarks"
   }
 }
