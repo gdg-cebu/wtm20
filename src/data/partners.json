@@ -8,46 +8,5 @@
         "logo": "/assets/partners/google.svg"
       }
     ]
-  },
-  {
-    "label": "In cooperation with",
-    "items": [
-      {
-        "name": "PLDT",
-        "url": "https://www.facebook.com/PLDTInnolab/",
-        "logo": "/assets/partners/pldt.png"
-      }
-    ]
-  },
-  {
-    "label": "Special thanks",
-    "items": [
-      {
-        "name": "Arcanys",
-        "url": "https://www.arcanys.com/",
-        "logo": "/assets/partners/arcanys.png"
-      },
-      {
-        "name": "Yondu",
-        "url": "https://www.yondu.com/",
-        "logo": "/assets/partners/yondu.png"
-      }
-    ]
-  },
-  {
-    "label": "Amazing supporters",
-    "items": [
-      {
-        "name": "DICT",
-        "url": "https://dict.gov.ph/",
-        "logo": "/assets/partners/dict.png",
-        "height": 68
-      },
-      {
-        "name": "Bubble Tea Station",
-        "url": "https://www.facebook.com/bubbleteastation/",
-        "logo": "/assets/partners/bubble-tea-station.png"
-      }
-    ]
   }
 ]
