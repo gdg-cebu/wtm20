@@ -13,7 +13,6 @@ const ScheduleBlock = () => {
 
         let span = 1;
         if (!isMorningSession && !isFull && i < arr.length - 1) {
-            console.log(schedule[time]);
             const next = new Date(`2019-07-20 ${arr[i + 1]}:00`);
             span = (next.valueOf() - date.valueOf()) / 1000 / 60 / 15;
         }
