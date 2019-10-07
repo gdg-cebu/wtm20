@@ -6,12 +6,40 @@
     "photo": "/assets/speakers/frances-marie-teves.jpg",
     "bio": "Frances Marie is currently working as a Software Engineer. Her work mainly focuses on Embedded Firmware Web Development for multi-functional printers for multiple projects. Aside from her work in technical field, she is also a Community Builder and a Freelance Tech Host. She loves to help create an avenue for developers to discover and learn more about technology. She also does freelance hosting to various events, more focused in tech-related activities. She is the current Community Manager and WTM Lead for GDG Cebu."
   },
-  "julius-uy": {
-    "name": "Julius Uy",
-    "position": "Engineering Manager",
-    "company": "Rakuten Viki",
-    "photo": "/assets/speakers/julius-uy.jpg",
-    "bio": "Julius leads the Mobile Apps and TV engineering teams in Rakuten Viki. His team works on various projects such as Siri, Apple TV, Android TV, Roku, Google Play Instant Google Home, Chromecast, Chrome OS, and Smart Displays. Their works were featured on Google I/O, WWDC, Android Developer Story, Editor's Choice, Android Excellence, and in several news sites and tech blogs."
+  "shad-roi": {
+    "name": "Shad Roi de la Cruz",
+    "position": "",
+    "company": "Google",
+    "photo": "/assets/speakers/shad-roi.jpg",
+    "bio": ""
+  },
+  "josan-astrid-chug": {
+    "name": "Josan Astrid Chug",
+    "position": "",
+    "company": "",
+    "photo": "/assets/speakers/josan-astrid-chug.jpg",
+    "bio": ""
+  },
+  "elram-espra": {
+    "name": "Elram Espra",
+    "position": "",
+    "company": "",
+    "photo": "/assets/speakers/elram-espra.jpg",
+    "bio": ""
+  },
+  "justin-po": {
+    "name": "Justin Po",
+    "position": "",
+    "company": "",
+    "photo": "/assets/speakers/justin-po.jpg",
+    "bio": ""
+  },
+  "vincent-alturas": {
+    "name": "Vincent Alturas",
+    "position": "",
+    "company": "",
+    "photo": "/assets/speakers/vincent-alturas.jpg",
+    "bio": ""
   },
   "franchette-camoro": {
     "name": "Franchette Camoro",
@@ -20,19 +48,26 @@
     "photo": "/assets/speakers/franchette-camoro.jpg",
     "bio": "Franchette is a Web Developer and is passionate about giving more opportunities to the local community to learn programming to build better software and products. She does this by organizing community events all year round. She also has several hobbies like yoga, reading, and binge watching on netflix."
   },
-  "albert-padin": {
-    "name": "Albert Padin",
-    "position": "Co-Founder & CTO",
-    "company": "Symph",
-    "photo": "/assets/speakers/albert-padin.jpg",
-    "bio": "Albert is a developer and entrepreneur who's worked on consumer, enterprise, and government software products. He is the co-founder and CTO of Symph, a design, development, and startup studio. At Symph, he has architected and developed solutions for 500 Startups, Office of the President of the Philippines, and the World Bank. Albert leads a diverse team of developers in creating software solutions. He ensures that the team's output is high quality and performs well at scale. Albert is also passionate about empowering startups and has been involved in the Philippine Startup Ecosystem, by facilitating and mentoring at Startup Weekends and other events. Prior to that, Albert started SpellDial, directed plays, and mentored street children. He studied Information Technology at the Centre for International Education Global Colleges. He lives in Cebu City, Philippines with his wife. His interests include theatre, performing arts, and the non-trivial act of eradicating poverty."
+  "arnelle-balane": {
+    "name": "Arnelle Balane",
+    "position": "Software Developer",
+    "company": "Newlogic",
+    "photo": "/assets/speakers/arnelle-balane.jpg",
+    "bio": "Arnelle is a Web developer from Cebu, Philippines who enjoys building things with good old HTML, CSS, JavaScript, and Web Platform APIs. He co-organizes GDG Cebu and is an active volunteer and speaker for other local JavaScript communities. He experiments with cool new Web technologies and writes about them in his blog. When not busy experimenting with new Web APIs, he can also taking photos, playing video games, or practicing his card tricks."
   },
-  "steve-seongug-jung": {
-    "name": "Steve SeongUg Jung",
-    "position": "Android Engineer Manager",
-    "company": "Grab",
-    "photo": "/assets/speakers/steve-seongug-jung.jpg",
-    "bio": "Since 2010, I have been developing Android Applications for consumer and enterprise. I started my career working at Daou Tech developing various applications such as messenger, calendar, email, and Mobile Application Management Service (including web). Since Dec. 2014, I became lead Android Developer at Toss Lab, Inc., an enterprise communications startup focused on the Asian market. I have contributed to the Android libraries such as Robolectric-Gradle and Engine-io-java-client. I have experience giving lectures on development. I have taught Agile to Ticket Monster developers and Open Source operations and ?contributions? to college students and professors. I enjoy helping others so feel free to ask for help. My specialities include android TDD, Good Architectures, Agile, XP, Cl, etc. I hope I can help."
+  "vin-lim": {
+    "name": "Vin Lim",
+    "position": "",
+    "company": "",
+    "photo": "/assets/speakers/vin-lim.jpg",
+    "bio": ""
+  },
+  "hassan-abid": {
+    "name": "Hassan Abid",
+    "position": "",
+    "company": "",
+    "photo": "/assets/speakers/hassan-abid.jpg",
+    "bio": ""
   },
   "sean-urgel": {
     "name": "Sean Urgel",
@@ -41,60 +76,18 @@
     "photo": "/assets/speakers/sean-urgel.jpg",
     "bio": "Sean is passionate about making thoughts a reality by creating meaningful products. He puts into action his principles of commitment, consistent hard work, willingness to change and adapt in product development by being a self-taught full-stack developer specializing in React development [at Symph]. He actively shares to the community his learnings and perspective in Medium."
   },
-  "arnelle-balane": {
-    "name": "Arnelle Balane",
-    "position": "Software Developer",
+  "albert-padin": {
+    "name": "Albert Padin",
+    "position": "Co-Founder & CTO",
+    "company": "Symph",
+    "photo": "/assets/speakers/albert-padin.jpg",
+    "bio": "Albert is a developer and entrepreneur who's worked on consumer, enterprise, and government software products. He is the co-founder and CTO of Symph, a design, development, and startup studio. At Symph, he has architected and developed solutions for 500 Startups, Office of the President of the Philippines, and the World Bank. Albert leads a diverse team of developers in creating software solutions. He ensures that the team's output is high quality and performs well at scale. Albert is also passionate about empowering startups and has been involved in the Philippine Startup Ecosystem, by facilitating and mentoring at Startup Weekends and other events. Prior to that, Albert started SpellDial, directed plays, and mentored street children. He studied Information Technology at the Centre for International Education Global Colleges. He lives in Cebu City, Philippines with his wife. His interests include theatre, performing arts, and the non-trivial act of eradicating poverty."
+  },
+  "faie-lomente": {
+    "name": "Faie Lomente",
+    "position": "",
     "company": "Newlogic",
-    "photo": "/assets/speakers/arnelle-balane.jpg",
-    "bio": "Arnelle is a Web developer from Cebu, Philippines who enjoys building things with good old HTML, CSS, JavaScript, and Web Platform APIs. He co-organizes GDG Cebu and is an active volunteer and speaker for other local JavaScript communities. He experiments with cool new Web technologies and writes about them in his blog. When not busy experimenting with new Web APIs, he can also taking photos, playing video games, or practicing his card tricks. Other than that he's probably sleeping."
-  },
-  "henry-lim": {
-    "name": "Henry Lim",
-    "position": "Frontend Web Developer",
-    "company": "Apppi",
-    "photo": "/assets/speakers/henry-lim.jpg",
-    "bio": "Henry Lim is a Malaysian front-end software developer currently based in Thailand, Bangkok. He’s a big fan of Google’s cutting-edge technologies, including Progressive Web Apps, Project Fugu, Preact, and Firebase. He will stop at nothing to educate everyone around him about them. While he’s not coding, he likes to play piano and listen to his favorite band - Mayday."
-  },
-  "jecelyn-yeen": {
-    "name": "Jecelyn Yeen",
-    "position": "Google Developer Expert",
-    "company": "Angular and Web Technologies",
-    "photo": "/assets/speakers/jecelyn-yeen.jpg",
-    "bio": "Jecelyn speaks English, Mandarin, C#, Typescript, JavaScript and Angular. Web development ninja by nature, Software architect by profession, she is also a Google Developer Expert (GDE) in Angular & director of Women Who Code KL. She funnels her passion in tech into publishing articles as well as sharing her knowledge via workshops and conferences and meet-ups. Ironically her favourite past time away from work involves travelling to remote islands without WiFi for deep sea diving expeditions and reading books with tangible covers."
-  },
-  "shang-yi-lim": {
-    "name": "Shang Yi Lim",
-    "position": "Software Developer",
-    "company": "IdealHub",
-    "photo": "/assets/speakers/shang-yi-lim.jpg",
-    "bio": "Shang Yi loves what's interesting in technology. He mainly works with Java, Angular, HTML5, Typescript. During the weekends he occasionally codes on Ionic sometimes cluelessly tinkerers with Arduino . When he feels like he needs a change of scenery, he occasionally tries his hands on baking and cooking. He is has a quirky sense of humor and likes to indulge in creepypastas, and occasionally binge on DIY videos."
-  },
-  "ren-stanforth": {
-    "name": "Ren Stanforth",
-    "position": "Software Engineer",
-    "company": "Inspire Team",
-    "photo": "/assets/speakers/ren-stanforth.jpg",
-    "bio": "Renee Stanforth is a software engineer from Inspire Team who is an aspiring IoT tinkerer. She has been an enthusiast and a member of the Internet of Things Cebu since 2016. She believes that there's something new to learn everyday as technology evolves exponentially."
-  },
-  "dennis-alund": {
-    "name": "Dennis Alund",
-    "position": "Founder",
-    "company": "Kumpul Coworking Space",
-    "photo": "/assets/speakers/dennis-alund.jpg",
-    "bio": "Dennis is a software developer and community enthusiast who started to explore programming in his teenage years, long before he owned a computer of his own. He went to study computer science at university and has been living and working as a freelance software consultant in Indonesia since 2009. His passion for active citizenship and community empowerment has manifested itself as Kumpul coworking space (www.kumpul.co). It is the first coworking space in Bali to bring in collaboration with government, national partners and community programs to the island. He has been actively involved in initiating Google community programs such as Indonesia Android Kejar and GDG Bali. He is now mostly active in Oddbit (www.oddbit.id), a consultancy agency that develops software solutions with focus on Firebase."
-  },
-  "jason-zaman": {
-    "name": "Jason Zaman",
-    "position": "Gentoo Linux and Android Developer",
-    "company": "",
-    "photo": "/assets/speakers/jason-zaman.jpg",
-    "bio": "Jason is community lead for TensorFlow SIG-Build and an ML-GDE. He works as a machine learning engineer at Light doing computational photography in mobile cameras. Along with speaking regularly, he is also active in Open Source as a Gentoo Linux developer and maintainer of the SELinux Project."
-  },
-  "desmond-teo": {
-    "name": "Desmond Teo",
-    "position": "Android Developer",
-    "company": "Rakuten Viki",
-    "photo": "/assets/speakers/desmond-teo.jpg",
-    "bio": "Android developer at Rakuten Viki, working on delivering the best app experience for millions of fans around the world. Was an iOS developer before that, but fell in love with Android and the passionate community around the platform. Outside of tech, loves nature and the outdoors. Huge fan of football and Liverpool FC."
+    "photo": "/assets/speakers/faie-lomente.jpg",
+    "bio": ""
   }
 }
