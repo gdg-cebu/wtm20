@@ -1,4 +1,5 @@
 import ButtonLink from '../button-link';
+import event from '../../data/event.json';
 import style from './style';
 
 const PhotoGrid = () => (
@@ -37,10 +38,10 @@ const PhotoGrid = () => (
         </picture>
 
         <section class={style.content}>
-            <h3>#ioxcebu18 highlights</h3>
-            <p>This year's festival built lots of excitement. Check out photos from featured talks, hands-on learning sessions, and after-hours fun.</p>
+            <h3>{event.past_event.hashtag} highlights</h3>
+            <p>Last year's festival built lots of excitement. Check out photos from featured talks, hands-on learning sessions, and after-hours fun.</p>
 
-            <ButtonLink href="https://photos.google.com/share/AF1QipMDTPgxptzK-uhna-JRR_60MIXATOc6EVjvvvVnjRoSMXLYw1CJfuGr_-i0aYSuOg?key=dS1ydmE5VXdKbS1LLTBTcnJtZDRHRTVqWXA4ZFZn">
+            <ButtonLink href={event.past_event.gallery_url}>
                 See all photos
             </ButtonLink>
         </section>

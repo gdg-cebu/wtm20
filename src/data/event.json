@@ -1,7 +1,27 @@
 {
   "name": "GDG DevFest Cebu 2019",
+  "hashtag": "#devfest19",
   "description": "DevFests are community-led developer events hosted by Google Developer Groups around the globe. GDGs are focused on community building and learning about Google’s technologies.",
   "date": "November 16, 2019",
   "venue": "Golden Peak Hotel, Cebu City",
-  "register_url": "https://www.eventbrite.com/e/devfest-cebu-2019-tickets-63167173717?aff=ebdshpfprimarybucket"
+  "register_url": "https://www.eventbrite.com/e/devfest-cebu-2019-tickets-63167173717?aff=ebdshpfprimarybucket",
+  "stats": [
+    {
+      "label": "Attendees",
+      "value": "800+"
+    },
+    {
+      "label": "Day",
+      "value": "1"
+    },
+    {
+      "label": "Breakout Sessions",
+      "value": "4"
+    }
+  ],
+
+  "past_event": {
+    "hashtag": "#devfest18",
+    "gallery_url": "https://photos.google.com/share/AF1QipMDTPgxptzK-uhna-JRR_60MIXATOc6EVjvvvVnjRoSMXLYw1CJfuGr_-i0aYSuOg?key=dS1ydmE5VXdKbS1LLTBTcnJtZDRHRTVqWXA4ZFZn"
+  }
 }

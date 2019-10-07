@@ -1,5 +1,6 @@
 import LayoutGrid from 'preact-material-components/LayoutGrid';
 import 'preact-material-components/LayoutGrid/style.css';
+import event from '../../data/event.json';
 import style from './style';
 
 const InfoStat = ({value, label}) => (
@@ -16,19 +17,19 @@ const InfoBlock = () => (
                 <h2>What you need to know, before you ask</h2>
 
                 <p>
-                    Google I/O Extended 2019 Cebu brings together experts in Machine Learning, Android,
+                    {event.name} brings together experts in Machine Learning, Android,
                     Web and Cloud technologies to a day full of sessions, workshops and showcases.
                 </p>
                 <p>
-                    Our team creates Google I/O Extended to be the best place for experience sharing in a
+                    Our team creates {event.name} to be the best place for experience sharing in a
                     phenomenal atmosphere.
                 </p>
             </LayoutGrid.Cell>
 
             <LayoutGrid.Cell tabletCols="12" desktopCols="5" class={style.stats}>
-                <InfoStat value="800+" label="Attendees" />
-                <InfoStat value="1" label="Day" />
-                <InfoStat value="4" label="Breakout Sessions" />
+                {event.stats.map(stat => (
+                    <InfoStat value={stat.value} label={stat.label} />
+                ))}
             </LayoutGrid.Cell>
         </LayoutGrid.Inner>
     </LayoutGrid>

@@ -1,10 +1,10 @@
 import style from './style';
-import hashtagGif from '../../images/io19-hashtag.gif';
+import event from '../../data/event.json';
 
 const SocialBlock = () => (
     <section class={style.social}>
         <div class={style.text}>
-            <p>Keep in touch with GDG Cebu for the latest I/O Extended announcements.</p>
+            <p>Keep in touch with GDG Cebu for the latest {event.name} announcements.</p>
 
             <div class={style.links}>
                 <a href="https://www.facebook.com/gdgcebuorg/" target="_blank" rel="noopener noreferrer" class="facebook">Facebook</a>
@@ -12,8 +12,6 @@ const SocialBlock = () => (
                 <a href="https://www.meetup.com/GDGCebu/" target="_blank" rel="noopener noreferrer" class="meetup">Meetup</a>
             </div>
         </div>
-
-        <img src={hashtagGif} />
     </section>
 );
 
