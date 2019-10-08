@@ -41,12 +41,47 @@
     "photo": "/assets/speakers/vincent-alturas.jpg",
     "bio": ""
   },
+  "cleo-credo": {
+    "name": "Cleo Credo",
+    "position": "Software Engineer",
+    "company": "Startechup, Inc.",
+    "photo": "/assets/speakers/cleo-credo.jpg",
+    "bio": "Cleo is a Software Engineer at Startechup,Inc. by day and a hardware enthusiast by night. She finds joy in building things and experimenting different kinds of technologies.<br><br>She also helps promote tech scene in Cebu by actively speaking at tech events, workshops and meetups as well as co-leading community-driven organizations such as PizzaPy Cebu and React Cebu."
+  },
+  "paula-mayol": {
+    "name": "Paula Mayol",
+    "position": "Assistant Professor",
+    "company": "UP Cebu",
+    "photo": "/assets/speakers/paula-mayol.jpg",
+    "bio": "Paula is an MS Computer Science graduate with experience in presenting research papers in international and national research conference in computing."
+  },
+  "anh-to": {
+    "name": "Anh To",
+    "position": "Product Manager",
+    "company": "Inspectorio Inc",
+    "photo": "/assets/speakers/anh-to.jpg",
+    "bio": "Annie To is an Agile Evangelist - Product Craftswoman - PSM II, PSPO II, with 4 years experience in leading Business and Product analysis, Product Value delivery strategy, Product Vision communication, leading cross-functional development teams in fast-growing startups in Vietnam."
+  },
   "franchette-camoro": {
     "name": "Franchette Camoro",
     "position": "Fullstack Developer",
     "company": "Symph",
     "photo": "/assets/speakers/franchette-camoro.jpg",
     "bio": "Franchette is a Web Developer and is passionate about giving more opportunities to the local community to learn programming to build better software and products. She does this by organizing community events all year round. She also has several hobbies like yoga, reading, and binge watching on netflix."
+  },
+  "dorell-james-galang": {
+    "name": "Dorell James Galang",
+    "position": "Fullstack Developer",
+    "company": "WebriQ Goes Mad",
+    "photo": "/assets/speakers/dorell-james-galang.jpg",
+    "bio": ""
+  },
+  "vin-lim": {
+    "name": "Vin Lim",
+    "position": "Co-Founder & CEO",
+    "company": "Green Room",
+    "photo": "/assets/speakers/vin-lim.jpg",
+    "bio": "Vin is the Co-Founder and CEO of Green Room, a leading mobile and web application development company, with a portfolio of major international and local brands. Together with his team, he specialises in cross-platform application development, with technologies like TypeScript, Angular and various modern web technologies.<br><br>His journey in the tech and startup scene has sparked his enthusiasm in building tech community, leading to the founding of Startup Penang, GDG George Town and Angular Malaysia. To contribute to the ecosystem further, he has been speaking in various local and international tech conferences, promoting web technologies.<br><br>When he is not working, you will find him tinkering and building stuff, from applications to hardwares."
   },
   "arnelle-balane": {
     "name": "Arnelle Balane",
@@ -55,26 +90,47 @@
     "photo": "/assets/speakers/arnelle-balane.jpg",
     "bio": "Arnelle is a Web developer from Cebu, Philippines who enjoys building things with good old HTML, CSS, JavaScript, and Web Platform APIs. He co-organizes GDG Cebu and is an active volunteer and speaker for other local JavaScript communities. He experiments with cool new Web technologies and writes about them in his blog. When not busy experimenting with new Web APIs, he can also taking photos, playing video games, or practicing his card tricks."
   },
-  "vin-lim": {
-    "name": "Vin Lim",
-    "position": "Co-Founder & CEO",
-    "company": "Green Room",
-    "photo": "/assets/speakers/vin-lim.jpg",
-    "bio": "Vin is the Co-Founder and CEO of Green Room, a leading mobile and web application development company, with a portfolio of major international and local brands. Together with his team, he specialises in cross-platform application development, with technologies like TypeScript, Angular and various modern web technologies.<br>His journey in the tech and startup scene has sparked his enthusiasm in building tech community, leading to the founding of Startup Penang, GDG George Town and Angular Malaysia. To contribute to the ecosystem further, he has been speaking in various local and international tech conferences, promoting web technologies.<br>When he is not working, you will find him tinkering and building stuff, from applications to hardwares."
+  "riya-dashoriya": {
+    "name": "Riya Dashoriya",
+    "position": "Software Engineer",
+    "company": "Quizlet",
+    "photo": "/assets/speakers/riya-dashoriya.jpg",
+    "bio": "Riya Dashoriya is a Software Engineer at Quizlet, San Francisco. She is also Google Developers Group San Francisco and Cloud San Francisco organizer, as well as Ambassador for the respective Women Techmakers chapters. Riya has veritable curiosity and passion to dig into things and find out how they work. Her current favorites are Diversity & Inclusion, Communities, React, Accessibility and Actions on Google Assistant."
+  },
+  "mark-robin": {
+    "name": "Mark Robin",
+    "position": "Software Engineer",
+    "company": "Chromedia Far East Inc.",
+    "photo": "/assets/speakers/mark-robin.jpg",
+    "bio": ""
+  },
+  "truongsinh-tran-nguyen": {
+    "name": "TruongSinh Tran-Nguyen",
+    "position": "Engineering Director",
+    "company": "Inspectorio",
+    "photo": "/assets/speakers/truongsinh-tran-nguyen.jpg",
+    "bio": "10 years working with teams on cloud, backend, HTML, mobile in multiple startups in Finland and Vietnam. Nordic Startup Award - People’s choice CTO 2016. Agile evangelist and Flutter advocate. Currently Engineering Director at Inspectorio."
+  },
+  "sean-urgel": {
+    "name": "Sean Urgel",
+    "position": "Frontend Developer",
+    "company": "Abstract Design Co.",
+    "photo": "/assets/speakers/sean-urgel.jpg",
+    "bio": "Sean is passionate about making thoughts a reality by creating meaningful products. He puts into action his principles of commitment, consistent hard work, willingness to change and adapt in product development by being a self-taught full-stack developer specializing in React development [at Symph]. He actively shares to the community his learnings and perspective in Medium."
   },
   "hassan-abid": {
     "name": "Hassan Abid",
     "position": "Lead Software Engineer",
     "company": "BeLive",
     "photo": "/assets/speakers/hassan-abid.jpg",
-    "bio": "Hassan is Google Developers Experts for Android since 2016. He is currently based in Singapore, Where he works as Lead Software Engineer for South East Asia’s Live Streaming platform - BeLive. Before that, He lived in Seoul, where he worked on Mobile Video Streaming SDK and KineMaster, an Android Video editing app.<br>He loves writing and sharing his experiences about Android development with fellow developers through blogs posts, events and conferences."
+    "bio": "Hassan is Google Developers Experts for Android since 2016. He is currently based in Singapore, Where he works as Lead Software Engineer for South East Asia’s Live Streaming platform - BeLive. Before that, He lived in Seoul, where he worked on Mobile Video Streaming SDK and KineMaster, an Android Video editing app.<br><br>He loves writing and sharing his experiences about Android development with fellow developers through blogs posts, events and conferences."
   },
-  "sean-urgel": {
-    "name": "Sean Urgel",
-    "position": "Fullstack Developer",
-    "company": "Symph",
-    "photo": "/assets/speakers/sean-urgel.jpg",
-    "bio": "Sean is passionate about making thoughts a reality by creating meaningful products. He puts into action his principles of commitment, consistent hard work, willingness to change and adapt in product development by being a self-taught full-stack developer specializing in React development [at Symph]. He actively shares to the community his learnings and perspective in Medium."
+  "taegyun-jeon": {
+    "name": "Taegyun Jeon",
+    "position": "CEO",
+    "company": "SI Analytics",
+    "photo": "/assets/speakers/taegyun-jeon.jpg",
+    "bio": "Taegyun Jeon is an AI team leader at Satrec Initiative. He received Ph.D. in Electrical Engineering and Computer Science from Gwangju Institute of Science and Technology with topics of machine learning and computer vision. He is working on machine learning research for developing new business model and framework for satellite image analysis. Proficient in using TensorFlow for developing machine learning solutions. Taegyun gives talks on TensorFlow and recent papers on Machine Learning for developers."
   },
   "albert-padin": {
     "name": "Albert Padin",
@@ -87,14 +143,7 @@
     "name": "Faie Lomente",
     "position": "Junior Software Developer",
     "company": "Newlogic",
-    "photo": "/assets/speakers/faie-lomente.png",
+    "photo": "/assets/speakers/faie-lomente.jpg",
     "bio": ""
-  },
-  "truongsinh-tran-nguyen": {
-    "name": "TruongSinh Tran-Nguyen",
-    "position": "Engineering Director",
-    "company": "Inspectorio",
-    "photo": "/assets/speakers/truongsinh-tran-nguyen.jpg",
-    "bio": "10 years working with teams on cloud, backend, HTML, mobile in multiple startups in Finland and Vietnam. Nordic Startup Award - People’s choice CTO 2016. Agile evangelist and Flutter advocate. Currently Engineering Director at Inspectorio."
   }
 }

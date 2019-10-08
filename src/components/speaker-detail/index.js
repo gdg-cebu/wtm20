@@ -44,7 +44,7 @@ class SpeakerDetail extends Component {
                 </header>
 
                 <main class={style.content}>
-                    <p>{speaker.bio}</p>
+                    <p dangerouslySetInnerHTML={{__html: speaker.bio}} />
                 </main>
             </Dialog>
         );
