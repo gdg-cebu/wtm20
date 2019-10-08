@@ -16,7 +16,7 @@
     "speakers": []
   },
   "104": {
-    "title": "WTM Diversity (Level Up) Keynote",
+    "title": "Women TechMakers Diversity Keynote",
     "speakers": [
       "josan-astrid-chug"
     ]
@@ -43,7 +43,7 @@
     ]
   },
   "109": {
-    "title": "Women Techmakers: Community Slot",
+    "title": "Women Techmakers: Slot Available",
     "speakers": []
   },
   "110": {
@@ -53,67 +53,69 @@
     ]
   },
   "111": {
-    "title": "Women Techmakers: Community Slot",
+    "title": "Women Techmakers: Slot Available",
     "speakers": []
   },
   "112": {
-    "title": "Web Topic: Talk",
+    "title": "What is CSS Houdini?",
     "speakers": [
       "arnelle-balane"
     ]
   },
   "113": {
-    "title": "Web Topic: Community Slot",
+    "title": "Web: Slot Available",
     "speakers": []
   },
   "114": {
-    "title": "Web Topic: Talk",
+    "title": "Immersive Web with WebXR Device API",
     "speakers": [
       "vin-lim"
     ]
   },
   "115": {
-    "title": "Web Topic: Community Slot",
+    "title": "Web: Slot Available",
     "speakers": []
   },
   "116": {
-    "title": "Android Topic: Talk",
+    "title": "Improve app performance with Kotlin coroutines",
     "speakers": [
       "hassan-abid"
     ]
   },
   "117": {
-    "title": "Android Topic: Community Talk",
+    "title": "Android: Slot Available",
     "speakers": []
   },
   "118": {
-    "title": "Flutter Topic: Talk",
+    "title": "Flutter: Talk",
     "speakers": [
       "sean-urgel"
     ]
   },
   "119": {
-    "title": "Android Topic: Community Talk",
-    "speakers": []
+    "title": "Cross-Platform On-Device ML Inference",
+    "speakers": [
+      "truongsinh-tran-nguyen"
+    ]
   },
   "120": {
-    "title": "Machine Learning Topic: Talk",
+    "title": "Machine Learning: Talk",
     "speakers": [
       "albert-padin"
     ]
   },
   "121": {
-    "title": "Machine Learning Topic: Community Slot",
+    "title": "Machine Learning: Slot Available",
     "speakers": []
   },
   "122": {
-    "title": "Machine Learning Topic: Talk",
+    "title": "Machine Learning: Talk",
     "speakers": [
       "faie-lomente"
     ]
   },
   "123": {
-    "title": "Machine Learning Topic: Community Slot",
+    "title": "Machine Learning: Slot Available",
     "speakers": []
   },
   "124": {

@@ -64,10 +64,10 @@
   },
   "hassan-abid": {
     "name": "Hassan Abid",
-    "position": "",
-    "company": "",
+    "position": "Lead Software Engineer",
+    "company": "BeLive",
     "photo": "/assets/speakers/hassan-abid.jpg",
-    "bio": ""
+    "bio": "Hassan is Google Developers Experts for Android since 2016. He is currently based in Singapore, Where he works as Lead Software Engineer for South East Asia’s Live Streaming platform - BeLive. Before that, He lived in Seoul, where he worked on Mobile Video Streaming SDK and KineMaster, an Android Video editing app.<br>He loves writing and sharing his experiences about Android development with fellow developers through blogs posts, events and conferences."
   },
   "sean-urgel": {
     "name": "Sean Urgel",
@@ -89,5 +89,12 @@
     "company": "Newlogic",
     "photo": "/assets/speakers/faie-lomente.jpg",
     "bio": ""
+  },
+  "truongsinh-tran-nguyen": {
+    "name": "TruongSinh Tran-Nguyen",
+    "position": "Engineering Director",
+    "company": "Inspectorio",
+    "photo": "/assets/speakers/truongsinh-tran-nguyen.jpg",
+    "bio": "10 years working with teams on cloud, backend, HTML, mobile in multiple startups in Finland and Vietnam. Nordic Startup Award - People’s choice CTO 2016. Agile evangelist and Flutter advocate. Currently Engineering Director at Inspectorio."
   }
 }
