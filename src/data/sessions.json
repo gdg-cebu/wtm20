@@ -1,27 +1,27 @@
 {
-  "101": {
+  "001": {
     "title": "Opening and Introduction",
     "speakers": [
       "frances-marie-teves"
     ]
   },
-  "102": {
+  "002": {
     "title": "Google Developer Keynote",
     "speakers": [
       "shad-roi"
     ]
   },
-  "103": {
+  "003": {
     "title": "Technology Developer Keynote",
     "speakers": []
   },
-  "104": {
+  "004": {
     "title": "Women TechMakers Diversity Keynote",
     "speakers": [
       "josan-astrid-chug"
     ]
   },
-  "105": {
+  "005": {
     "title": "Developer Student Clubs Cebu",
     "speakers": [
       "elram-espra",
@@ -29,102 +29,125 @@
       "vincent-alturas"
     ]
   },
-  "106": {
+  "006": {
     "title": "Sponsor Speaking Slot",
     "speakers": []
   },
-  "107": {
+  "007": {
     "title": "Lunch"
   },
-  "108": {
-    "title": "Women TechMakers: Talk",
+
+
+  "101": {
+    "title": "Women TechMakers: Lightning Talks",
     "speakers": [
-      "franchette-camoro"
+      "cleo-credo",
+      "paula-mayol"
     ]
   },
-  "109": {
-    "title": "Women TechMakers: Talk",
+  "102": {
+    "title": "Agile Product Development for B2B Enterprise client",
     "speakers": [
-      "faie-lomente"
+      "anh-to"
     ]
   },
-  "110": {
-    "title": "Women TechMakers: Talk",
+  "103": {
+    "title": "How I hacked my wedding dress",
     "speakers": [
       "josan-astrid-chug"
     ]
   },
-  "111": {
-    "title": "Slot Available",
-    "speakers": []
-  },
-  "112": {
-    "title": "What is CSS Houdini?",
+  "104": {
+    "title": "Assistant: Building your Smart Home",
     "speakers": [
-      "arnelle-balane"
+      "franchette-camoro"
     ]
   },
-  "113": {
-    "title": "Slot Available",
-    "speakers": []
+
+
+  "201": {
+    "title": "WTF is JAMstack",
+    "speakers": [
+      "dorell-james-galang"
+    ]
   },
-  "114": {
+  "202": {
     "title": "Immersive Web with WebXR Device API",
     "speakers": [
       "vin-lim"
     ]
   },
-  "115": {
-    "title": "Slot Available",
-    "speakers": []
-  },
-  "116": {
-    "title": "Improve app performance with Kotlin coroutines",
+  "203": {
+    "title": "What is CSS Houdini?",
     "speakers": [
-      "hassan-abid"
+      "arnelle-balane"
     ]
   },
-  "117": {
-    "title": "Slot Available",
-    "speakers": []
-  },
-  "118": {
-    "title": "Flutter: Talk",
+  "204": {
+    "title": "11 steps  to make your website #a11y compliant",
     "speakers": [
-      "sean-urgel"
+      "riya-dashoriya"
     ]
   },
-  "119": {
+
+
+  "301": {
+    "title": "Introduction to Automated Testing",
+    "speakers": [
+      "mark-robin"
+    ]
+  },
+  "302": {
     "title": "Cross-Platform On-Device ML Inference",
     "speakers": [
       "truongsinh-tran-nguyen"
     ]
   },
-  "120": {
-    "title": "Machine Learning: Talk",
+  "303": {
+    "title": "Flutter: An Introduction",
+    "speakers": [
+      "sean-urgel"
+    ]
+  },
+  "304": {
+    "title": "Improve app performance with Kotlin coroutines",
+    "speakers": [
+      "hassan-abid"
+    ]
+  },
+
+
+  "401": {
+    "title": "Machine Learning with Tensorflow",
+    "speakers": [
+      "taegyun-jeon"
+    ]
+  },
+  "402": {
+    "title": "AI and The Cloud",
     "speakers": [
       "albert-padin"
     ]
   },
-  "121": {
-    "title": "Slot Available",
+  "403": {
+    "title": "Developing for the Cloud with Anthos",
     "speakers": []
   },
-  "122": {
-    "title": "Slot Available",
-    "speakers": []
+  "404": {
+    "title": "Getting started with Django",
+    "speakers": [
+      "faie-lomente"
+    ]
   },
-  "123": {
-    "title": "Slot Available",
-    "speakers": []
-  },
-  "124": {
+
+
+  "008": {
     "title": "Open Forum and Q&A"
   },
-  "125": {
+  "009": {
     "title": "Closing Keynote"
   },
-  "126": {
+  "010": {
     "title": "Raffle and Closing Remarks"
   }
 }

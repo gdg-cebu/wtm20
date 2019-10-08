@@ -7,14 +7,12 @@ const ScheduleBlock = () => {
 
     Object.keys(schedule).forEach((time, i, arr) => {
         const date = new Date(`2019-07-20 ${time}:00`);
-        const hour = date.getHours();
-        const isMorningSession = hour < 12;
         const isFull = schedule[time][0].full;
 
         let span = 1;
-        if (!isMorningSession && !isFull && i < arr.length - 1) {
+        if (!isFull && i < arr.length - 1) {
             const next = new Date(`2019-07-20 ${arr[i + 1]}:00`);
-            span = (next.valueOf() - date.valueOf()) / 1000 / 60 / 15;
+            span = (next.valueOf() - date.valueOf()) / 1000 / 60 / 10;
         }
 
         children.push(

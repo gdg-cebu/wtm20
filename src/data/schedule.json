@@ -1,115 +1,130 @@
 {
   "9:00": [{
     "duration": "15 mins",
-    "session": "101",
+    "session": "001",
     "full": true
   }],
   "9:15": [{
     "duration": "35 mins",
-    "session": "102",
+    "session": "002",
     "full": true
   }],
   "9:40": [{
     "duration": "35 mins",
-    "session": "103",
+    "session": "003",
     "full": true
   }],
   "10:15": [{
     "duration": "35 mins",
-    "session": "104",
+    "session": "004",
     "full": true
   }],
   "10:50": [{
     "duration": "10 mins",
-    "session": "105",
+    "session": "005",
     "full": true
   }],
   "11:00": [{
-    "duration": "60 mins",
-    "session": "107",
-    "full": true
-  }],
-  "12:00": [{
-    "duration": "60 mins",
-    "session": "108",
-    "span": 4
-  }, {
-    "duration": "60 mins",
-    "session": "112",
-    "span": 4
-  }, {
-    "duration": "60 mins",
-    "session": "116",
-    "span": 4
-  }, {
-    "duration": "60 mins",
-    "session": "120",
-    "span": 4
-  }],
-  "13:00": [{
-    "duration": "60 mins",
-    "session": "109",
-    "span": 4
-  }, {
-    "duration": "60 mins",
-    "session": "113",
-    "span": 4
-  }, {
-    "duration": "60 mins",
-    "session": "117",
-    "span": 4
-  }, {
-    "duration": "60 mins",
-    "session": "121",
-    "span": 4
-  }],
-  "14:00": [{
-    "duration": "60 mins",
-    "session": "110",
-    "span": 4
-  }, {
-    "duration": "60 mins",
-    "session": "114",
-    "span": 4
-  }, {
-    "duration": "60 mins",
-    "session": "118",
-    "span": 4
-  }, {
-    "duration": "60 mins",
-    "session": "122",
-    "span": 4
-  }],
-  "15:00": [{
-    "duration": "60 mins",
-    "session": "111",
-    "span": 4
-  }, {
-    "duration": "60 mins",
-    "session": "115",
-    "span": 4
-  }, {
-    "duration": "60 mins",
-    "session": "119",
-    "span": 4
-  }, {
-    "duration": "60 mins",
-    "session": "123",
-    "span": 4
-  }],
-  "16:00": [{
-    "duration": "60 mins",
-    "session": "124",
-    "full": true
-  }],
-  "17:00": [{
     "duration": "30 mins",
-    "session": "125",
+    "session": "006",
     "full": true
   }],
-  "17:30": [{
+  "11:30": [{
+    "duration": "90 mins",
+    "session": "007",
+    "full": true
+  }],
+
+
+  "13:00": [{
+    "duration": "40 mins",
+    "session": "101",
+    "span": 4
+  }, {
+    "duration": "40 mins",
+    "session": "201",
+    "span": 4
+  }, {
+    "duration": "40 mins",
+    "session": "301",
+    "span": 4
+  }, {
+    "duration": "40 mins",
+    "session": "401",
+    "span": 4
+  }],
+
+
+  "13:40": [{
+    "duration": "40 mins",
+    "session": "102",
+    "span": 4
+  }, {
+    "duration": "40 mins",
+    "session": "202",
+    "span": 4
+  }, {
+    "duration": "40 mins",
+    "session": "302",
+    "span": 4
+  }, {
+    "duration": "40 mins",
+    "session": "402",
+    "span": 4
+  }],
+
+
+  "14:20": [{
+    "duration": "40 mins",
+    "session": "103",
+    "span": 4
+  }, {
+    "duration": "40 mins",
+    "session": "203",
+    "span": 4
+  }, {
+    "duration": "40 mins",
+    "session": "303",
+    "span": 4
+  }, {
+    "duration": "40 mins",
+    "session": "403",
+    "span": 4
+  }],
+
+
+  "15:00": [{
+    "duration": "40 mins",
+    "session": "104",
+    "span": 4
+  }, {
+    "duration": "40 mins",
+    "session": "204",
+    "span": 4
+  }, {
+    "duration": "40 mins",
+    "session": "304",
+    "span": 4
+  }, {
+    "duration": "40 mins",
+    "session": "404",
+    "span": 4
+  }],
+
+
+  "15:40": [{
+    "duration": "30 mins",
+    "session": "008",
+    "full": true
+  }],
+  "16:10": [{
+    "duration": "30 mins",
+    "session": "009",
+    "full": true
+  }],
+  "16:40": [{
     "duration": "15 mins",
-    "session": "126",
+    "session": "010",
     "full": true
   }]
 }
