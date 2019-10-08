@@ -8,36 +8,36 @@
   },
   "shad-roi": {
     "name": "Shad Roi de la Cruz",
-    "position": "",
+    "position": "Developer Community Manager - DSC",
     "company": "Google",
     "photo": "/assets/speakers/shad-roi.jpg",
     "bio": ""
   },
   "josan-astrid-chug": {
     "name": "Josan Astrid Chug",
-    "position": "",
-    "company": "",
+    "position": "CAO & UI/UX Engineer",
+    "company": "Aestrea",
     "photo": "/assets/speakers/josan-astrid-chug.jpg",
     "bio": ""
   },
   "elram-espra": {
     "name": "Elram Espra",
-    "position": "",
-    "company": "",
+    "position": "DSC Lead",
+    "company": "CIT-U",
     "photo": "/assets/speakers/elram-espra.jpg",
     "bio": ""
   },
   "justin-po": {
     "name": "Justin Po",
-    "position": "",
-    "company": "",
+    "position": "DSC Lead",
+    "company": "UP Cebu",
     "photo": "/assets/speakers/justin-po.jpg",
     "bio": ""
   },
   "vincent-alturas": {
     "name": "Vincent Alturas",
-    "position": "",
-    "company": "",
+    "position": "DSC Lead",
+    "company": "USC",
     "photo": "/assets/speakers/vincent-alturas.jpg",
     "bio": ""
   },
@@ -57,10 +57,10 @@
   },
   "vin-lim": {
     "name": "Vin Lim",
-    "position": "",
-    "company": "",
+    "position": "Co-Founder & CEO",
+    "company": "Green Room",
     "photo": "/assets/speakers/vin-lim.jpg",
-    "bio": ""
+    "bio": "Vin is the Co-Founder and CEO of Green Room, a leading mobile and web application development company, with a portfolio of major international and local brands. Together with his team, he specialises in cross-platform application development, with technologies like TypeScript, Angular and various modern web technologies.<br>His journey in the tech and startup scene has sparked his enthusiasm in building tech community, leading to the founding of Startup Penang, GDG George Town and Angular Malaysia. To contribute to the ecosystem further, he has been speaking in various local and international tech conferences, promoting web technologies.<br>When he is not working, you will find him tinkering and building stuff, from applications to hardwares."
   },
   "hassan-abid": {
     "name": "Hassan Abid",
@@ -85,9 +85,9 @@
   },
   "faie-lomente": {
     "name": "Faie Lomente",
-    "position": "",
+    "position": "Junior Software Developer",
     "company": "Newlogic",
-    "photo": "/assets/speakers/faie-lomente.jpg",
+    "photo": "/assets/speakers/faie-lomente.png",
     "bio": ""
   },
   "truongsinh-tran-nguyen": {

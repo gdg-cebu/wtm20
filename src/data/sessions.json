@@ -37,23 +37,25 @@
     "title": "Lunch"
   },
   "108": {
-    "title": "Women Techmakers: Talk",
+    "title": "Women TechMakers: Talk",
     "speakers": [
       "franchette-camoro"
     ]
   },
   "109": {
-    "title": "Women Techmakers: Slot Available",
-    "speakers": []
+    "title": "Women TechMakers: Talk",
+    "speakers": [
+      "faie-lomente"
+    ]
   },
   "110": {
-    "title": "Women Techmakers: Talk",
+    "title": "Women TechMakers: Talk",
     "speakers": [
       "josan-astrid-chug"
     ]
   },
   "111": {
-    "title": "Women Techmakers: Slot Available",
+    "title": "Slot Available",
     "speakers": []
   },
   "112": {
@@ -63,7 +65,7 @@
     ]
   },
   "113": {
-    "title": "Web: Slot Available",
+    "title": "Slot Available",
     "speakers": []
   },
   "114": {
@@ -73,7 +75,7 @@
     ]
   },
   "115": {
-    "title": "Web: Slot Available",
+    "title": "Slot Available",
     "speakers": []
   },
   "116": {
@@ -83,7 +85,7 @@
     ]
   },
   "117": {
-    "title": "Android: Slot Available",
+    "title": "Slot Available",
     "speakers": []
   },
   "118": {
@@ -105,17 +107,15 @@
     ]
   },
   "121": {
-    "title": "Machine Learning: Slot Available",
+    "title": "Slot Available",
     "speakers": []
   },
   "122": {
-    "title": "Machine Learning: Talk",
-    "speakers": [
-      "faie-lomente"
-    ]
+    "title": "Slot Available",
+    "speakers": []
   },
   "123": {
-    "title": "Machine Learning: Slot Available",
+    "title": "Slot Available",
     "speakers": []
   },
   "124": {
