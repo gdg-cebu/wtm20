@@ -46,15 +46,15 @@
     ]
   },
   "102": {
-    "title": "Agile Product Development for B2B Enterprise client",
-    "speakers": [
-      "anh-to"
-    ]
-  },
-  "103": {
     "title": "How I hacked my wedding dress",
     "speakers": [
       "josan-astrid-chug"
+    ]
+  },
+  "103": {
+    "title": "Getting started with Django",
+    "speakers": [
+      "faye-lomente"
     ]
   },
   "104": {
@@ -130,13 +130,9 @@
     ]
   },
   "403": {
-    "title": "Developing for the Cloud with Anthos",
-    "speakers": []
-  },
-  "404": {
-    "title": "Getting started with Django",
+    "title": "Angular and Tensorflow.js",
     "speakers": [
-      "faye-lomente"
+      "cyrus-hiyas"
     ]
   },
 

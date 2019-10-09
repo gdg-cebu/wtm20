@@ -55,13 +55,6 @@
     "photo": "/assets/speakers/paula-mayol.jpg",
     "bio": "Paula is an MS Computer Science graduate with experience in presenting research papers in international and national research conference in computing."
   },
-  "anh-to": {
-    "name": "Anh To",
-    "position": "Product Manager",
-    "company": "Inspectorio Inc",
-    "photo": "/assets/speakers/anh-to.jpg",
-    "bio": "Annie To is an Agile Evangelist - Product Craftswoman - PSM II, PSPO II, with 4 years experience in leading Business and Product analysis, Product Value delivery strategy, Product Vision communication, leading cross-functional development teams in fast-growing startups in Vietnam."
-  },
   "franchette-camoro": {
     "name": "Franchette Camoro",
     "position": "Fullstack Developer",
@@ -144,6 +137,13 @@
     "position": "Junior Software Developer",
     "company": "Newlogic",
     "photo": "/assets/speakers/faye-lomente.jpg",
+    "bio": ""
+  },
+  "cyrus-hiyas": {
+    "name": "Cyrus Hiyas",
+    "position": "Software Engineer",
+    "company": "Amihan Global Strategies",
+    "photo": "/assets/speakers/cyrus-hiyas.jpg",
     "bio": ""
   }
 }
