@@ -67,7 +67,7 @@
     "position": "Fullstack Developer",
     "company": "WebriQ Goes Mad",
     "photo": "/assets/speakers/dorell-james-galang.jpg",
-    "bio": ""
+    "bio": "Dorell James is a full stack developer and web technology enthusiast who helps promote the tech scene in Cebu, Philippines by actively co-leading community-driven organizations namely Laravel Cebu, React Cebu and recently created JavaScript Cebu – do regular event meetups, code camps, school outreach and more.<br><br>He started his career as a QA - later turned software engineer at NCR while doing freelance WordPress jobs. He’s been creating web apps and integrated solutions at his full-time job while also making sure that the company is stays at the edge of technology doing business. Just recently, he fell in love with JAMstack and everything JS.<br><br>Outside of the techie world, Dorell James is a dog person, goes for bike and plays basketball quite terribly. More information about Dorell James can be found on his website at dorelljames.com."
   },
   "vin-lim": {
     "name": "Vin Lim",
@@ -137,13 +137,13 @@
     "position": "Junior Software Developer",
     "company": "Newlogic",
     "photo": "/assets/speakers/faye-lomente.jpg",
-    "bio": ""
+    "bio": "Faye is a Junior Software Developer at a consultancy and development company based in Singapore. Her work focuses mainly on web engineering using Python and Django as the web framework. She learned programming and its basics when she took Computer Science as a bachelor's degree. When she's away from the keyboard, she loves spending her \"me\" time on anything that makes her forget about her phone such as books, poetry, anime, movies, sports and travel."
   },
   "cyrus-hiyas": {
     "name": "Cyrus Hiyas",
     "position": "Software Engineer",
     "company": "Amihan Global Strategies",
     "photo": "/assets/speakers/cyrus-hiyas.jpg",
-    "bio": ""
+    "bio": "I am a software engineer from Amihan Global Strategies and knows some stuff regarding Angular Framework. I have been talking to various code camps already and have shared knowledge to people."
   }
 }
