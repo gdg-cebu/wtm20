@@ -22,12 +22,15 @@ export default class App extends Component {
 		return (
 			<div id="app">
                 <Header currentRoute={this.state.currentPath} />
-				<Router onChange={this.handleRoute}>
-					<Home path="/" />
-                    <Speakers path="/speakers/" />
-                    <Schedule path="/schedule/" />
-					<NotFound default />
-				</Router>
+
+                <main>
+                    <Router onChange={this.handleRoute}>
+                        <Home path="/" />
+                        <Speakers path="/speakers/" />
+                        <Schedule path="/schedule/" />
+                        <NotFound default />
+                    </Router>
+                </main>
 
                 <SocialBlock />
                 <Footer />
