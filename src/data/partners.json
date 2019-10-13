@@ -32,7 +32,8 @@
       {
         "name": "FullSpeed Tech",
         "url": "https://www.fullspeedtechnologies.com",
-        "logo": "/assets/partners/fullspeed-tech.jpg"
+        "logo": "/assets/partners/fullspeed-tech.jpg",
+        "height": 72
       },
       {
         "name": "Lexmark",
