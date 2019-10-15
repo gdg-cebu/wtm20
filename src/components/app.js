@@ -8,8 +8,6 @@ import NotFound from '../routes/404';
 import Header from './header';
 import Footer from './footer';
 import SocialBlock from './social-block';
-// import Home from 'async!../routes/home';
-// import Profile from 'async!../routes/profile';
 
 export default class App extends Component {
     state = {
