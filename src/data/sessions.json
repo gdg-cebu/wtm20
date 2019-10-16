@@ -13,7 +13,9 @@
   },
   "003": {
     "title": "Technology Developer Keynote",
-    "speakers": []
+    "speakers": [
+      "ferdie-saputil"
+    ]
   },
   "004": {
     "title": "Women TechMakers Diversity Keynote",
@@ -41,7 +43,7 @@
   "101": {
     "title": "Women TechMakers: Lightning Talks",
     "speakers": [
-      "cleo-credo",
+      "demi-eslit",
       "paula-mayol"
     ]
   },
@@ -98,9 +100,9 @@
     ]
   },
   "302": {
-    "title": "Cross-Platform On-Device ML Inference",
+    "title": "CameraX, meet AutoML and MLKit",
     "speakers": [
-      "truongsinh-tran-nguyen"
+      "toru-wonyoung-choi"
     ]
   },
   "303": {
@@ -118,21 +120,27 @@
 
 
   "401": {
-    "title": "Machine Learning with Tensorflow",
+    "title": "IoT with Firebase using ESP8266 and Raspberry Pi",
     "speakers": [
-      "taegyun-jeon"
+      "cleo-credo"
     ]
   },
   "402": {
-    "title": "AI and The Cloud",
+    "title": "Cross-Platform On-Device ML Inference",
     "speakers": [
-      "albert-padin"
+      "truongsinh-tran-nguyen"
     ]
   },
   "403": {
     "title": "TensorFlowJS + Angular",
     "speakers": [
       "cyrus-hiyas"
+    ]
+  },
+  "404": {
+    "title": "AI and The Cloud",
+    "speakers": [
+      "albert-padin"
     ]
   },
 

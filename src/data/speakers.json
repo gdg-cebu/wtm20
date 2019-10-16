@@ -1,4 +1,11 @@
 {
+  "ferdie-saputil": {
+    "name": "Ferdie Saputil",
+    "position": "Google Cloud Lead",
+    "company": "Google",
+    "photo": "/assets/speakers/ferdie-saputil.jpg",
+    "bio": "Ferdie is the Google Cloud Lead for the Philippines, Vietnam, and Rest of Asia (ROA). As a lead, his objective is to grow the territory for the countries that he supports and this covers driving awareness on the Google Cloud at CXO level, drive adoption and support the organizations business transformation, support initiatives in building the technology community and the partner ecosystem around it and grow the business of Google Cloud in these territories."
+  },
   "vin-lim": {
     "name": "Vin Lim",
     "position": "Co-Founder & CEO",
@@ -20,19 +27,19 @@
     "photo": "/assets/speakers/truongsinh-tran-nguyen.jpg",
     "bio": "10 years working with teams on cloud, backend, HTML, mobile in multiple startups in Finland and Vietnam. Nordic Startup Award - People’s choice CTO 2016. Agile evangelist and Flutter advocate. Currently Engineering Director at Inspectorio."
   },
-  "taegyun-jeon": {
-    "name": "Taegyun Jeon",
-    "position": "CEO",
-    "company": "SI Analytics",
-    "photo": "/assets/speakers/taegyun-jeon.jpg",
-    "bio": "Taegyun Jeon is an AI team leader at Satrec Initiative. He received Ph.D. in Electrical Engineering and Computer Science from Gwangju Institute of Science and Technology with topics of machine learning and computer vision. He is working on machine learning research for developing new business model and framework for satellite image analysis. Proficient in using TensorFlow for developing machine learning solutions. Taegyun gives talks on TensorFlow and recent papers on Machine Learning for developers."
-  },
   "riya-dashoriya": {
     "name": "Riya Dashoriya",
     "position": "Software Engineer",
     "company": "Quizlet",
     "photo": "/assets/speakers/riya-dashoriya.jpg",
     "bio": "Riya Dashoriya is a Software Engineer at Quizlet, San Francisco. She is also Google Developers Group San Francisco and Cloud San Francisco organizer, as well as Ambassador for the respective Women Techmakers chapters. Riya has veritable curiosity and passion to dig into things and find out how they work. Her current favorites are Diversity & Inclusion, Communities, React, Accessibility and Actions on Google Assistant."
+  },
+  "toru-wonyoung-choi": {
+    "name": "Toru Wonyoung Choi",
+    "position": "Android Advocate",
+    "company": "Singapore Tourism Board",
+    "photo": "/assets/speakers/toru-wonyoung-choi.jpg",
+    "bio": "I’ve worked as Android developer since 2010, through 3 countries, Korea, Malaysia, and Singapore. Always interested in trend of technology, and don’t hesitate to try a new feature."
   },
   "josan-astrid-chug": {
     "name": "Josan Astrid Chug",
@@ -75,6 +82,13 @@
     "company": "UP Cebu",
     "photo": "/assets/speakers/paula-mayol.jpg",
     "bio": "Paula is currently an assistant professor handling major and core computer science courses in the Department of Computer Science in UP Cebu. She obtained her MS in Computer Science at UP Los Baños under the advisorship of Dr. Eliezer Albacea, an awarded NAST Scientist/Academian. She had been exposed to the rigorous “research with a purpose” environment of UPLB, and makes it her mission to instill the same values to her students.<br><br>Her research interests are on Artificial Intelligence, Machine Learning, Software Engineering and optimization of computer systems.<br><br>When not working, she enjoys reading, drinking coffee, gardening, spending time with her family, and going up the mountain to enjoy nature and unwind. Her dream is for Cebu City to have a smart, sustainable and eco-friendly urban planning, without the need for sacrificing Mother Nature at the expense of urbanization."
+  },
+  "demi-eslit": {
+    "name": "Demi Bernice Eslit",
+    "position": "Founder",
+    "company": "Create and Rise Academy",
+    "photo": "/assets/speakers/demi-eslit.jpg",
+    "bio": "Demi Bernice Eslit is a licensed Kindergarten teacher who went from teaching kids to freelance graphic designing and now coaching other freelancers (or want-to-be freelancers) to become highly paid. She is devoted to helping her countrymen find freedom and prosperity through freelancing and digital marketing."
   },
   "shad-roi": {
     "name": "Shad Roi de la Cruz",
@@ -133,17 +147,17 @@
     "bio": ""
   },
   "justin-po": {
-    "name": "Justin Po",
+    "name": "Justin Andre Po",
     "position": "DSC Lead",
     "company": "UP Cebu",
     "photo": "/assets/speakers/justin-po.jpg",
-    "bio": ""
+    "bio": "Developer Student Clubs (DSCs) are university based community groups for students interested in Google developer technologies. Students from all undergraduate or graduate programs with an interest in growing as a developer are welcome. By joining a DSC, students grow their knowledge in a peer-to-peer learning environment and build solutions for local businesses and their community."
   },
   "vincent-alturas": {
-    "name": "Vincent Alturas",
+    "name": "Bruce Vincent Alturas",
     "position": "DSC Lead",
     "company": "USC",
     "photo": "/assets/speakers/vincent-alturas.jpg",
-    "bio": ""
+    "bio": "Since DSC is a university based community of students, I want to help and advocate students especially those who are passionate of learning to be a developer and also to create a community of young developers. As well as for them to have the opportunity to such community, to have fun and inspire others as well."
   }
 }
