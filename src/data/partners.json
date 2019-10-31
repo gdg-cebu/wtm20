@@ -1,11 +1,27 @@
 [
   {
-    "label": "General partner",
+    "label": "General sponsors",
     "items": [
       {
         "name": "Google",
         "url": "https://www.google.com/",
         "logo": "/assets/partners/google.svg"
+      },
+      {
+        "name": "Lexmark",
+        "url": "https://www.lexmark.com/en_ph.html",
+        "logo": "/assets/partners/lexmark.png"
+      },
+      {
+        "name": "FullSpeed Tech",
+        "url": "https://www.fullspeedtechnologies.com",
+        "logo": "/assets/partners/fullspeed-tech.jpg",
+        "height": 68
+      },
+      {
+        "name": "GitLab",
+        "url": "https://about.gitlab.com/what-is-gitlab/",
+        "logo": "/assets/partners/gitlab.svg"
       }
     ]
   },
@@ -14,32 +30,22 @@
     "label": "Bronze sponsors",
     "items": [
       {
-        "name": "GitLab",
-        "url": "https://about.gitlab.com/what-is-gitlab/",
-        "logo": "/assets/partners/gitlab.svg"
-      },
-      {
         "name": "TrustArc",
         "url": "https://www.trustarc.com/",
         "logo": "/assets/partners/trustarc.svg"
+      },
+      {
+        "name": "Newlogic",
+        "url": "https://newlogic.io/",
+        "logo": "/assets/partners/newlogic.png",
+        "height": 60
       }
     ]
   },
 
   {
-    "label": "Amazing sponsors",
+    "label": "Amazing supporters",
     "items": [
-      {
-        "name": "FullSpeed Tech",
-        "url": "https://www.fullspeedtechnologies.com",
-        "logo": "/assets/partners/fullspeed-tech.jpg",
-        "height": 72
-      },
-      {
-        "name": "Lexmark",
-        "url": "https://www.lexmark.com/en_ph.html",
-        "logo": "/assets/partners/lexmark.png"
-      },
       {
         "name": "Fizzbuzz",
         "url": "https://fizzbuzz.ph/who-we-are/",
@@ -50,6 +56,50 @@
         "url": "https://www.jetbrains.com",
         "logo": "/assets/partners/jetbrains.svg",
         "height": 72
+      }
+    ]
+  },
+
+  {
+    "label": "Venue Partner",
+    "items": [
+      {
+        "name": "Golden Peak Hotel and Suites",
+        "url": "https://www.goldenpeakhotel.com/",
+        "logo": "/assets/partners/golden-peak.png"
+      }
+    ]
+  },
+
+  {
+    "label": "PR Partner",
+    "items": [
+      {
+        "name": "PRWorks",
+        "url": "https://prworksph.com/",
+        "logo": "/assets/partners/prworks.png"
+      }
+    ]
+  },
+
+  {
+    "label": "Media Partner",
+    "items": [
+      {
+        "name": "Inquirer",
+        "url": "https://www.inquirer.net/",
+        "logo": "/assets/partners/inquirer.svg"
+      },
+      {
+        "name": "Kita Mo",
+        "url": "http://kitamo.com.ph/",
+        "logo": "/assets/partners/kita-mo.png",
+        "height": 60
+      },
+      {
+        "name": "Ambidextr",
+        "url": "http://ambidextr.media/",
+        "logo": "/assets/partners/ambidextr.png"
       }
     ]
   }
