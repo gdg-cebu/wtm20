@@ -6,22 +6,6 @@
         "name": "Google",
         "url": "https://www.google.com/",
         "logo": "/assets/partners/google.svg"
-      },
-      {
-        "name": "Lexmark",
-        "url": "https://www.lexmark.com/en_ph.html",
-        "logo": "/assets/partners/lexmark.png"
-      },
-      {
-        "name": "FullSpeed Tech",
-        "url": "https://www.fullspeedtechnologies.com",
-        "logo": "/assets/partners/fullspeed-tech.jpg",
-        "height": 68
-      },
-      {
-        "name": "GitLab",
-        "url": "https://about.gitlab.com/what-is-gitlab/",
-        "logo": "/assets/partners/gitlab.svg"
       }
     ]
   },
@@ -39,6 +23,28 @@
         "url": "https://newlogic.io/",
         "logo": "/assets/partners/newlogic.png",
         "height": 60
+      }
+    ]
+  },
+
+  {
+    "label": "Special thanks",
+    "items": [
+      {
+        "name": "Lexmark",
+        "url": "https://www.lexmark.com/en_ph.html",
+        "logo": "/assets/partners/lexmark.png"
+      },
+      {
+        "name": "FullSpeed Tech",
+        "url": "https://www.fullspeedtechnologies.com",
+        "logo": "/assets/partners/fullspeed-tech.jpg",
+        "height": 68
+      },
+      {
+        "name": "GitLab",
+        "url": "https://about.gitlab.com/what-is-gitlab/",
+        "logo": "/assets/partners/gitlab.svg"
       }
     ]
   },
