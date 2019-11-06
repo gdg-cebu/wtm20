@@ -138,7 +138,7 @@
     ]
   },
   "404": {
-    "title": "AI and The Cloud",
+    "title": "Continuous Deployment from Github to Cloud Run using Cloud Build",
     "speakers": [
       "albert-padin"
     ]
