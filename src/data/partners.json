@@ -11,7 +11,7 @@
   },
 
   {
-    "label": "Bronze sponsors",
+    "label": "Special thanks",
     "items": [
       {
         "name": "TrustArc",
@@ -23,28 +23,6 @@
         "url": "https://newlogic.io/",
         "logo": "/assets/partners/newlogic.png",
         "height": 60
-      }
-    ]
-  },
-
-  {
-    "label": "Special thanks",
-    "items": [
-      {
-        "name": "Lexmark",
-        "url": "https://www.lexmark.com/en_ph.html",
-        "logo": "/assets/partners/lexmark.png"
-      },
-      {
-        "name": "FullSpeed Tech",
-        "url": "https://www.fullspeedtechnologies.com",
-        "logo": "/assets/partners/fullspeed-tech.jpg",
-        "height": 68
-      },
-      {
-        "name": "GitLab",
-        "url": "https://about.gitlab.com/what-is-gitlab/",
-        "logo": "/assets/partners/gitlab.svg"
       }
     ]
   },
@@ -62,6 +40,22 @@
         "url": "https://www.jetbrains.com",
         "logo": "/assets/partners/jetbrains.svg",
         "height": 72
+      },
+      {
+        "name": "Lexmark",
+        "url": "https://www.lexmark.com/en_ph.html",
+        "logo": "/assets/partners/lexmark.png"
+      },
+      {
+        "name": "FullSpeed Tech",
+        "url": "https://www.fullspeedtechnologies.com",
+        "logo": "/assets/partners/fullspeed-tech.jpg",
+        "height": 68
+      },
+      {
+        "name": "GitLab",
+        "url": "https://about.gitlab.com/what-is-gitlab/",
+        "logo": "/assets/partners/gitlab.svg"
       }
     ]
   },
@@ -95,6 +89,11 @@
         "name": "Inquirer",
         "url": "https://www.inquirer.net/",
         "logo": "/assets/partners/inquirer.svg"
+      },
+      {
+        "name": "InqPop!",
+        "url": "https://pop.inquirer.net/",
+        "logo": "/assets/partners/inqpop.png"
       },
       {
         "name": "Kita Mo",
