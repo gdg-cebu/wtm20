@@ -56,6 +56,11 @@
         "name": "GitLab",
         "url": "https://about.gitlab.com/what-is-gitlab/",
         "logo": "/assets/partners/gitlab.svg"
+      },
+      {
+        "name": "Accenture",
+        "url": "https://www.accenture.com/us-en/careers",
+        "logo": "/assets/partners/accenture.png"
       }
     ]
   },
