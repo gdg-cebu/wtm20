@@ -25,18 +25,13 @@
     "full": true
   }],
   "11:00": [{
-    "duration": "30 mins",
-    "session": "006",
-    "full": true
-  }],
-  "11:30": [{
     "duration": "90 mins",
     "session": "007",
     "full": true
   }],
 
 
-  "13:00": [{
+  "12:30": [{
     "duration": "40 mins",
     "session": "101",
     "span": 4
@@ -55,7 +50,7 @@
   }],
 
 
-  "13:40": [{
+  "13:10": [{
     "duration": "40 mins",
     "session": "102",
     "span": 4
@@ -74,7 +69,7 @@
   }],
 
 
-  "14:20": [{
+  "13:50": [{
     "duration": "40 mins",
     "session": "103",
     "span": 4
@@ -93,7 +88,7 @@
   }],
 
 
-  "15:00": [{
+  "14:30": [{
     "duration": "40 mins",
     "session": "104",
     "span": 4
@@ -112,17 +107,17 @@
   }],
 
 
-  "15:40": [{
+  "15:10": [{
     "duration": "30 mins",
     "session": "008",
     "full": true
   }],
-  "16:10": [{
+  "15:40": [{
     "duration": "30 mins",
     "session": "009",
     "full": true
   }],
-  "16:40": [{
+  "16:10": [{
     "duration": "15 mins",
     "session": "010",
     "full": true
