@@ -80,15 +80,15 @@
     ]
   },
   "203": {
-    "title": "Leveling up creativity on the Web with CSS Houdini",
-    "speakers": [
-      "arnelle-balane"
-    ]
-  },
-  "204": {
     "title": "Automating GSuite using Google App Script",
     "speakers": [
       "shad-roi"
+    ]
+  },
+  "204": {
+    "title": "Leveling up creativity on the Web with CSS Houdini",
+    "speakers": [
+      "arnelle-balane"
     ]
   },
 
