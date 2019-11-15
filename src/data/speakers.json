@@ -137,7 +137,7 @@
     "position": "DSC Lead",
     "company": "CIT-U",
     "photo": "/assets/speakers/elram-espra.jpg",
-    "bio": ""
+    "bio": "Developer Student Clubs (DSCs) are university based community groups for students interested in Google developer technologies. Students from all undergraduate or graduate programs with an interest in growing as a developer are welcome. By joining a DSC, students grow their knowledge in a peer-to-peer learning environment and build solutions for local businesses and their community."
   },
   "justin-po": {
     "name": "Justin Andre Po",
@@ -151,6 +151,13 @@
     "position": "DSC Lead",
     "company": "USC",
     "photo": "/assets/speakers/vincent-alturas.jpg",
+    "bio": "Since DSC is a university based community of students, I want to help and advocate students especially those who are passionate of learning to be a developer and also to create a community of young developers. As well as for them to have the opportunity to such community, to have fun and inspire others as well."
+  },
+  "rona-rose-dalagon": {
+    "name": "Rona Rose Dalagon",
+    "position": "DSC Lead",
+    "company": "Cristal e-College - Bohol",
+    "photo": "/assets/speakers/rona-rose-dalagon.jpg",
     "bio": "Since DSC is a university based community of students, I want to help and advocate students especially those who are passionate of learning to be a developer and also to create a community of young developers. As well as for them to have the opportunity to such community, to have fun and inspire others as well."
   }
 }
