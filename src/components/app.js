@@ -24,8 +24,8 @@ export default class App extends Component {
                 <main>
                     <Router onChange={this.handleRoute}>
                         <Home path="/" />
-                        <Speakers path="/speakers/" />
-                        <Schedule path="/schedule/" />
+                        {/* <Speakers path="/speakers/" />
+                        <Schedule path="/schedule/" /> */}
                         <NotFound default />
                     </Router>
                 </main>
