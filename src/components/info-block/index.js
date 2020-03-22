@@ -17,8 +17,8 @@ const InfoBlock = () => (
                 <h2>What you need to know, before you ask</h2>
 
                 <p>
-                    {event.name} brings together experts in Machine Learning, Android,
-                    Web and Cloud technologies to a day full of sessions, workshops and showcases.
+                    {event.name} brings together experts in career, web, startup, and
+                    machine learning to a half day of virtual learning.
                 </p>
                 <p>
                     Our team creates {event.name} to be the best place for experience sharing in a

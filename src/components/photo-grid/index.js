@@ -39,7 +39,8 @@ const PhotoGrid = () => (
 
         <section class={style.content}>
             <h3>{event.past_event.hashtag} highlights</h3>
-            <p>Last year's festival built lots of excitement. Check out photos from featured talks, hands-on learning sessions, and after-hours fun.</p>
+            <p>Last year's Women Techmakers Cebu built lots of excitement. Check out photos from
+                featured talks, hands-on learning sessions, and after-hours fun.</p>
 
             <ButtonLink href={event.past_event.gallery_url}>
                 See all photos
