@@ -14,12 +14,6 @@
     "label": "Amazing supporters",
     "items": [
       {
-        "name": "Accenture",
-        "url": "",
-        "logo": "/assets/partners/accenture.png",
-        "height": 54
-      },
-      {
         "name": "Cloudstaff",
         "url": "",
         "logo": "/assets/partners/cloudstaff.png",
