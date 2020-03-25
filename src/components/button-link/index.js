@@ -1,7 +1,7 @@
 import style from './style';
 
-const ButtonLink = ({children, href}) => (
-    <a class={style.button} href={href} target="_blank" rel="noopener noreferrer">
+const ButtonLink = ({children, href, className}) => (
+    <a class={`${style.button} ${className}`} href={href} target="_blank" rel="noopener noreferrer">
         {children}
     </a>
 );

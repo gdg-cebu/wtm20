@@ -11,7 +11,8 @@ const HeroBlock = () => (
 			<h2>{event.description}</h2>
 			<h3>{event.date} <span>&middot;</span> {event.venue}</h3>
 
-			<ButtonLink href={event.register_url}>Register Now</ButtonLink>
+			<ButtonLink className={style.button} href={event.register_url}>Register now</ButtonLink>
+			<ButtonLink className={style.button} href="https://gleam.io/8jbla/wtm-cebu-international-womens-day-online-summit">Join our raffle</ButtonLink>
 		</div>
 	</section>
 );

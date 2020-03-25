@@ -45,6 +45,10 @@
     object-position: center center;
 }
 
+.button {
+    margin: 0 5px;
+}
+
 /* preact-material-components' breakpoint for desktop */
 @media (min-width: 840px) {
     .hero {
