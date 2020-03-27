@@ -1,163 +1,44 @@
 {
-  "ferdie-saputil": {
-    "name": "Ferdie Saputil",
-    "position": "Google Cloud Lead",
-    "company": "Google",
-    "photo": "/assets/speakers/ferdie-saputil.jpg",
-    "bio": "Ferdie is the Google Cloud Lead for the Philippines, Vietnam, and Rest of Asia (ROA). As a lead, his objective is to grow the territory for the countries that he supports and this covers driving awareness on the Google Cloud at CXO level, drive adoption and support the organizations business transformation, support initiatives in building the technology community and the partner ecosystem around it and grow the business of Google Cloud in these territories."
-  },
-  "vin-lim": {
-    "name": "Vin Lim",
-    "position": "Co-Founder & CEO",
-    "company": "Green Room",
-    "photo": "/assets/speakers/vin-lim.jpg",
-    "bio": "Vin is the Co-Founder and CEO of Green Room, a leading mobile and web application development company, with a portfolio of major international and local brands. Together with his team, he specialises in cross-platform application development, with technologies like TypeScript, Angular and various modern web technologies.<br><br>His journey in the tech and startup scene has sparked his enthusiasm in building tech community, leading to the founding of Startup Penang, GDG George Town and Angular Malaysia. To contribute to the ecosystem further, he has been speaking in various local and international tech conferences, promoting web technologies.<br><br>When he is not working, you will find him tinkering and building stuff, from applications to hardwares."
-  },
-  "hassan-abid": {
-    "name": "Hassan Abid",
-    "position": "Lead Software Engineer",
-    "company": "BeLive",
-    "photo": "/assets/speakers/hassan-abid.jpg",
-    "bio": "Hassan is Google Developers Experts for Android since 2016. He is currently based in Singapore, Where he works as Lead Software Engineer for South East Asia’s Live Streaming platform - BeLive. Before that, He lived in Seoul, where he worked on Mobile Video Streaming SDK and KineMaster, an Android Video editing app.<br><br>He loves writing and sharing his experiences about Android development with fellow developers through blogs posts, events and conferences."
-  },
-  "truongsinh-tran-nguyen": {
-    "name": "TruongSinh Tran-Nguyen",
-    "position": "Engineering Director",
-    "company": "Inspectorio",
-    "photo": "/assets/speakers/truongsinh-tran-nguyen.jpg",
-    "bio": "10 years working with teams on cloud, backend, HTML, mobile in multiple startups in Finland and Vietnam. Nordic Startup Award - People’s choice CTO 2016. Agile evangelist and Flutter advocate. Currently Engineering Director at Inspectorio."
-  },
-  "toru-wonyoung-choi": {
-    "name": "Toru Wonyoung Choi",
-    "position": "Android Advocate",
-    "company": "Singapore Tourism Board",
-    "photo": "/assets/speakers/toru-wonyoung-choi.jpg",
-    "bio": "I’ve worked as Android developer since 2010, through 3 countries, Korea, Malaysia, and Singapore. Always interested in trend of technology, and don’t hesitate to try a new feature."
-  },
-  "josan-astrid-chug": {
-    "name": "Josan Astrid Chug",
-    "position": "CAO & UI/UX Engineer",
-    "company": "Aestrea",
-    "photo": "/assets/speakers/josan-astrid-chug.jpg",
-    "bio": "Josan Astrid Dometita-Chug is a UI/UX Engineer and co-founder of Aestrea Software Development. In 2012, her team worked on a hotel booking engine, been acqui-hired by Rocketmiles - a travel startup based in Chicago a year later, has been acquired by Booking Holdings (booking . com) in 2015, and then merged with Agoda this year. She spearheaded GDG and other tech communities in Cagayan de Oro and Northern Mindanao. Josan's personal advocacy is inspiring more women to become a techmaker. She continues on growing the tech communities she has helped to start, and is focused especially on empowering more women via the Women Techmakers program and increase the number of young women to pursue engineering. Currently, she is talking up her Master’s degree in Entrepreneurship at the Asian Institute of Management — making sure she can run her tech startup and fund her wearable and IoT projects."
-  },
-  "dorell-james-galang": {
-    "name": "Dorell James Galang",
-    "position": "Fullstack Developer",
-    "company": "WebriQ Goes Mad",
-    "photo": "/assets/speakers/dorell-james-galang.jpg",
-    "bio": "Dorell James is a full stack developer and web technology enthusiast who helps promote the tech scene in Cebu, Philippines by actively co-leading community-driven organizations namely Laravel Cebu, React Cebu and recently created JavaScript Cebu – do regular event meetups, code camps, school outreach and more.<br><br>He started his career as a QA - later turned software engineer at NCR while doing freelance WordPress jobs. He’s been creating web apps and integrated solutions at his full-time job while also making sure that the company is stays at the edge of technology doing business. Just recently, he fell in love with JAMstack and everything JS.<br><br>Outside of the techie world, Dorell James is a dog person, goes for bike and plays basketball quite terribly. More information about Dorell James can be found on his website at dorelljames.com."
-  },
-  "cyrus-hiyas": {
-    "name": "Cyrus Hiyas",
-    "position": "Software Engineer",
-    "company": "Amihan Global Strategies",
-    "photo": "/assets/speakers/cyrus-hiyas.jpg",
-    "bio": "I am a software engineer from Amihan Global Strategies and knows some stuff regarding Angular Framework. I have been talking to various code camps already and have shared knowledge to people."
-  },
-  "faye-lomente": {
-    "name": "Faye Lomente",
-    "position": "Junior Software Developer",
-    "company": "Newlogic",
-    "photo": "/assets/speakers/faye-lomente.jpg",
-    "bio": "Faye is a Junior Software Developer at a consultancy and development company based in Singapore. Her work focuses mainly on web engineering using Python and Django as the web framework. She learned programming and its basics when she took Computer Science as a bachelor's degree. When she's away from the keyboard, she loves spending her \"me\" time on anything that makes her forget about her phone such as books, poetry, anime, movies, sports and travel."
-  },
-  "cleo-credo": {
-    "name": "Cleo Credo",
-    "position": "Software Engineer",
-    "company": "Startechup, Inc.",
-    "photo": "/assets/speakers/cleo-credo.jpg",
-    "bio": "Cleo is a Software Engineer at Startechup,Inc. by day and a hardware enthusiast by night. She finds joy in building things and experimenting different kinds of technologies.<br><br>She also helps promote tech scene in Cebu by actively speaking at tech events, workshops and meetups as well as co-leading community-driven organizations such as PizzaPy Cebu and React Cebu."
-  },
-  "paula-mayol": {
-    "name": "Paula Mayol",
-    "position": "Assistant Professor",
-    "company": "UP Cebu",
-    "photo": "/assets/speakers/paula-mayol.jpg",
-    "bio": "Paula is currently an assistant professor handling major and core computer science courses in the Department of Computer Science in UP Cebu. She obtained her MS in Computer Science at UP Los Baños under the advisorship of Dr. Eliezer Albacea, an awarded NAST Scientist/Academian. She had been exposed to the rigorous “research with a purpose” environment of UPLB, and makes it her mission to instill the same values to her students.<br><br>Her research interests are on Artificial Intelligence, Machine Learning, Software Engineering and optimization of computer systems.<br><br>When not working, she enjoys reading, drinking coffee, gardening, spending time with her family, and going up the mountain to enjoy nature and unwind. Her dream is for Cebu City to have a smart, sustainable and eco-friendly urban planning, without the need for sacrificing Mother Nature at the expense of urbanization."
-  },
-  "demi-eslit": {
-    "name": "Demi Bernice Eslit",
+  "connie-barrientos-carey": {
+    "name": "Connie Barrientos-Carey",
     "position": "Founder",
-    "company": "Create and Rise Academy",
-    "photo": "/assets/speakers/demi-eslit.jpg",
-    "bio": "Demi Bernice Eslit is a licensed Kindergarten teacher who went from teaching kids to freelance graphic designing and now coaching other freelancers (or want-to-be freelancers) to become highly paid. She is devoted to helping her countrymen find freedom and prosperity through freelancing and digital marketing."
+    "company": "Aleph Talent Solutions Corporation",
+    "photo": "/assets/speakers/connie-barrientos-carey.jpg",
+    "bio": "I own Aleph Talent Solutions Corporation, a business and HR consulting firm that helps companies set up in Cebu City. With 14 years of HR and operations management experience.<br><br>Passionate about social enterprise and runs Aldrin's Lechon with our farmers; also a blog for people that need business advice called, Business 101."
   },
-  "shad-roi": {
-    "name": "Shad Roi de la Cruz",
-    "position": "Developer Community Manager for DSC",
-    "company": "Google",
-    "photo": "/assets/speakers/shad-roi.jpg",
-    "bio": "Shad Roi is the Developer Community Manager for DSC at Google where he manages 140+ Developer Student Clubs in Southeast Asia region specifically Malaysia, Vietnam, Singapore, Indonesia, Pakistan and the Philippines.<br><br>Prior to Google, He worked at Symph and co-founded a startup called YYY Jobs in Cebu. He is also known for his support as Community Manager for GDG Cebu.<br><br>Shad is a community leader, tech enthusiast, and entrepreneur. He loves to talk about new tech ideas and innovation, programming his home automation using custom scripts and do some growth hacking in his work."
+  "irish-delos-santos": {
+    "name": "Dr. Irish Delos Santos, MA, MBA",
+    "position": "Founder",
+    "company": "WorkPeach",
+    "photo": "/assets/speakers/irish-delos-santos.jpg",
+    "bio": "Dr. Irish is a Business Consultant, Digital Marketing Strategist, Mentor, Speaker, Real Estate Manager, Animal Welfare Advocate and Founder of WorkPeach. After receiving her Doctoral Degree, Dr. Irish left the corporate world to focus on her Startup and Real Estate. She is the former Community Manager of JFDI.Asia, the first business accelerator in Southeast Asia, she helped the JFDI community grow in Asia through collaboration with tech startups, entrepreneurs and investors.<br><br>She aims to deliver innovative, profitable digital products and services that will create a positive difference and would make things better."
   },
-  "albert-padin": {
-    "name": "Albert Padin",
-    "position": "Co-Founder & CTO",
-    "company": "Symph",
-    "photo": "/assets/speakers/albert-padin.jpg",
-    "bio": "Albert is a developer and entrepreneur who's worked on consumer, enterprise, and government software products. He is the co-founder and CTO of Symph, a design, development, and startup studio. At Symph, he has architected and developed solutions for 500 Startups, Office of the President of the Philippines, and the World Bank. Albert leads a diverse team of developers in creating software solutions. He ensures that the team's output is high quality and performs well at scale. Albert is also passionate about empowering startups and has been involved in the Philippine Startup Ecosystem, by facilitating and mentoring at Startup Weekends and other events. Prior to that, Albert started SpellDial, directed plays, and mentored street children. He studied Information Technology at the Centre for International Education Global Colleges. He lives in Cebu City, Philippines with his wife. His interests include theatre, performing arts, and the non-trivial act of eradicating poverty."
-  },
-  "mark-robin": {
-    "name": "Mark Robin",
-    "position": "Software Engineer",
-    "company": "Chromedia Far East Inc.",
-    "photo": "/assets/speakers/mark-robin.jpg",
-    "bio": "Mark is a Full Stack Software Engineer and a Web Technology enthusiast. He is constantly learning new technologies and applying his professional development knowledge to solve business problems. Aside from his work, he also engages in the tech community by co-organizing GDG Cebu as the current Technical Lead.<br><br>He also finds time to balance his life by playing some sports, jamming with the guitar, unwinding in video games, joining other tech events, and reading articles or books in his spare time."
-  },
-  "sean-urgel": {
-    "name": "Sean Urgel",
-    "position": "Frontend Developer",
-    "company": "Abstract Design Co.",
-    "photo": "/assets/speakers/sean-urgel.jpg",
-    "bio": "Sean is passionate about making thoughts a reality by creating meaningful products. He puts into action his principles of commitment, consistent hard work, willingness to change and adapt in product development by being a self-taught full-stack developer specializing in React development [at Symph]. He actively shares to the community his learnings and perspective in Medium."
-  },
-  "frances-marie-teves": {
-    "name": "Frances Marie Teves",
-    "position": "Community Manager",
-    "company": "GDG Cebu",
-    "photo": "/assets/speakers/frances-marie-teves.jpg",
-    "bio": "Frances Marie is currently working as a Software Engineer. Her work mainly focuses on Embedded Firmware Web Development for multi-functional printers for multiple projects. Aside from her work in technical field, she is also a Community Builder and a Freelance Tech Host. She loves to help create an avenue for developers to discover and learn more about technology. She also does freelance hosting to various events, more focused in tech-related activities. She is the current Community Manager and WTM Lead for GDG Cebu."
+  "chi-senires": {
+    "name": "Chi Señires",
+    "position": "Lead Product Designer",
+    "company": "Cignal TV",
+    "photo": "/assets/speakers/chi-senires.jpg",
+    "bio": "Chi is a Lead Product Designer at Cignal TV and a front-end web developer with over 4 years of industry experience. Before graduating from Ateneo de Manila University, she co-founded User Experience Society, the first global Filipino student organization that advocates and practices human-centered design in solving problems in the community. She also spends her time freelancing and volunteering in various creative communities like UXPH and Figma PH."
   },
   "franchette-camoro": {
     "name": "Franchette Camoro",
-    "position": "Fullstack Developer",
+    "position": "Full Stack Developer",
     "company": "Symph",
     "photo": "/assets/speakers/franchette-camoro.jpg",
-    "bio": "Franchette is a Web Developer and is passionate about giving more opportunities to the local community to learn programming to build better software and products. She does this by organizing community events all year round. She also has several hobbies like yoga, reading, and binge watching on netflix."
+    "bio": "Franchette is a Full Stack Developer at Symph and is the WTM Ambassador for GDG Cebu. She has contributed to many tech events here in Cebu and wishes to see an improvement on the quality of programmers locally. She's also an advocate for mental health awareness, and hopes to crate a better environment for future filipinos who struggle and feel alone in their battles.<br><br>When she's not coding, she tries to either practice the zen life, learn new things about anything under the sun or game."
   },
-  "arnelle-balane": {
-    "name": "Arnelle Balane",
-    "position": "Software Developer",
-    "company": "Newlogic",
-    "photo": "/assets/speakers/arnelle-balane.jpg",
-    "bio": "Arnelle is a Web developer from Cebu, Philippines who enjoys building things with good old HTML, CSS, JavaScript, and Web Platform APIs. He co-organizes GDG Cebu and is an active volunteer and speaker for other local JavaScript communities. He experiments with cool new Web technologies and writes about them in his blog. When not busy experimenting with new Web APIs, he can also taking photos, playing video games, or practicing his card tricks."
+  "lea-truc": {
+    "name": "Lea Truc",
+    "position": "Community Founder",
+    "company": "Women Meet Tech",
+    "photo": "/assets/speakers/lea-truc.jpg",
+    "bio": "Lea Truc is a college professor in Boston turned tech advocate in Vietnam. Lea Truc has been keynote speakers in multiple community events and seminars by Google Developer Group Vietnam, TEDx, Women in STEM program at the U.S. Consulate General - Ho Chi Minh City… around tech and women empowerment.<br><br>She has received Public Diplomacy Federal Awards by the U.S. Department of State. She is also the Women Techmakers Ambassador for Vietnam."
   },
-  "elram-espra": {
-    "name": "Elram Espra",
-    "position": "DSC Lead",
-    "company": "CIT-U",
-    "photo": "/assets/speakers/elram-espra.jpg",
-    "bio": "Developer Student Clubs (DSCs) are university based community groups for students interested in Google developer technologies. Students from all undergraduate or graduate programs with an interest in growing as a developer are welcome. By joining a DSC, students grow their knowledge in a peer-to-peer learning environment and build solutions for local businesses and their community."
-  },
-  "justin-po": {
-    "name": "Justin Andre Po",
-    "position": "DSC Lead",
-    "company": "UP Cebu",
-    "photo": "/assets/speakers/justin-po.jpg",
-    "bio": "Developer Student Clubs (DSCs) are university based community groups for students interested in Google developer technologies. Students from all undergraduate or graduate programs with an interest in growing as a developer are welcome. By joining a DSC, students grow their knowledge in a peer-to-peer learning environment and build solutions for local businesses and their community."
-  },
-  "vincent-alturas": {
-    "name": "Bruce Vincent Alturas",
-    "position": "DSC Lead",
-    "company": "USC",
-    "photo": "/assets/speakers/vincent-alturas.jpg",
-    "bio": "Since DSC is a university based community of students, I want to help and advocate students especially those who are passionate of learning to be a developer and also to create a community of young developers. As well as for them to have the opportunity to such community, to have fun and inspire others as well."
-  },
-  "rona-rose-dalagon": {
-    "name": "Rona Rose Dalagon",
-    "position": "DSC Lead",
-    "company": "Cristal e-College - Bohol",
-    "photo": "/assets/speakers/rona-rose-dalagon.jpg",
-    "bio": "Since DSC is a university based community of students, I want to help and advocate students especially those who are passionate of learning to be a developer and also to create a community of young developers. As well as for them to have the opportunity to such community, to have fun and inspire others as well."
+  "frances-marie-teves": {
+    "name": "Frances Marie Teves",
+    "position": "Software Engineer",
+    "company": "Kyocera",
+    "photo": "/assets/speakers/frances-marie-teves.jpg",
+    "bio": "Frances is a Software Engineer, Community Builder, and Tech Host. She loves to help create an avenue for developers to discover and learn more about technology. She never imagined going into tech or even development when she was a kid but ended up staying in the field because she believes that being in tech can enable you to start and continue innovations to help make the world a better place. Her current work involves working with teams and focuses on embedded systems for multifunctional printers. She is also the voice behind \"Tech IT or Leave IT\": a show that helps in discovering one’s true passion in tech one podcast at a time."
   }
 }

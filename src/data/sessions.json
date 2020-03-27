@@ -1,158 +1,53 @@
 {
   "001": {
-    "title": "Opening and Introduction",
-    "speakers": [
-      "frances-marie-teves"
-    ]
-  },
-  "002": {
-    "title": "Google Developer Keynote",
-    "speakers": [
-      "shad-roi"
-    ]
-  },
-  "003": {
-    "title": "Technology Developer Keynote",
-    "speakers": [
-      "ferdie-saputil"
-    ]
-  },
-  "004": {
-    "title": "Women TechMakers Diversity Keynote",
-    "speakers": [
-      "josan-astrid-chug"
-    ]
-  },
-  "005": {
-    "title": "Developer Student Clubs Cebu",
-    "speakers": [
-      "elram-espra",
-      "justin-po",
-      "vincent-alturas",
-      "rona-rose-dalagon"
-    ]
-  },
-  "006": {
-    "title": "Sponsor Speaking Slot",
-    "speakers": []
-  },
-  "007": {
-    "title": "Lunch"
-  },
-
-
-  "101": {
-    "title": "Women TechMakers: Lightning Talks",
-    "speakers": [
-      "demi-eslit",
-      "paula-mayol"
-    ]
-  },
-  "102": {
-    "title": "Firebase and IoT",
-    "speakers": [
-      "josan-astrid-chug"
-    ]
-  },
-  "103": {
-    "title": "Ansible: Your deployment automation companion",
-    "speakers": [
-      "faye-lomente"
-    ]
-  },
-  "104": {
-    "title": "Building your Smart Home",
+    "title": "Intro and Instructions",
     "speakers": [
       "franchette-camoro"
     ]
   },
-
-
-  "201": {
-    "title": "WTF is JAMstack",
+  "002": {
+    "title": "Keynote: Together We Rise",
     "speakers": [
-      "dorell-james-galang"
+      "frances-marie-teves"
     ]
   },
-  "202": {
-    "title": "Leveling up creativity on the Web with CSS Houdini",
+  "003": {
+    "title": "Sponsor Slot: Cloud Staff"
+  },
+  "004": {
+    "title": "Gender Parity: Why Gender Equality is Fiction",
     "speakers": [
-      "arnelle-balane"
+      "connie-barrientos-carey"
     ]
   },
-  "203": {
-    "title": "Automating GSuite using Google App Script",
+  "005": {
+    "title": "Future of Work: Tech-powered Women in the Virtual World",
     "speakers": [
-      "shad-roi"
+      "irish-delos-santos"
     ]
   },
-  "204": {
-    "title": "Immersive Web with WebXR Device API",
+  "006": {
+    "title": "Intermission"
+  },
+  "007": {
+    "title": "Flutter with APIs",
     "speakers": [
-      "vin-lim"
+      "lea-truc"
     ]
   },
-
-
-  "301": {
-    "title": "Modern Web Testing and Automation with Puppeteer",
-    "speakers": [
-      "mark-robin"
-    ]
-  },
-  "302": {
-    "title": "CameraX, meet AutoML and MLKit",
-    "speakers": [
-      "toru-wonyoung-choi"
-    ]
-  },
-  "303": {
-    "title": "Flutter: An Introduction",
-    "speakers": [
-      "sean-urgel"
-    ]
-  },
-  "304": {
-    "title": "Improve app performance with Kotlin coroutines",
-    "speakers": [
-      "hassan-abid"
-    ]
-  },
-
-
-  "401": {
-    "title": "IoT with Firebase using ESP8266 and Raspberry Pi",
-    "speakers": [
-      "cleo-credo"
-    ]
-  },
-  "402": {
-    "title": "Cross-Platform On-Device ML Inference",
-    "speakers": [
-      "truongsinh-tran-nguyen"
-    ]
-  },
-  "403": {
-    "title": "TensorFlowJS + Angular",
-    "speakers": [
-      "cyrus-hiyas"
-    ]
-  },
-  "404": {
-    "title": "Continuous Deployment from Github to Cloud Run using Cloud Build",
-    "speakers": [
-      "albert-padin"
-    ]
-  },
-
-
   "008": {
-    "title": "Open Forum and Q&A"
+    "title": "Using Firebase for your MVPs",
+    "speakers": [
+      "franchette-camoro"
+    ]
   },
   "009": {
-    "title": "Closing Keynote"
+    "title": "From Implementation to Design",
+    "speakers": [
+      "chi-senires"
+    ]
   },
   "010": {
-    "title": "Raffle and Closing Remarks"
+    "title": "Question & Answer Session"
   }
 }

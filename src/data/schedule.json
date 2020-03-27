@@ -1,124 +1,51 @@
 {
-  "9:00": [{
+  "1:15": [{
     "duration": "15 mins",
     "session": "001",
     "full": true
   }],
-  "9:15": [{
-    "duration": "35 mins",
+  "1:30": [{
+    "duration": "30 mins",
     "session": "002",
     "full": true
   }],
-  "9:40": [{
-    "duration": "35 mins",
+  "2:00": [{
+    "duration": "30 mins",
     "session": "003",
     "full": true
   }],
-  "10:15": [{
-    "duration": "35 mins",
+  "2:30": [{
+    "duration": "30 mins",
     "session": "004",
     "full": true
   }],
-  "10:50": [{
-    "duration": "10 mins",
+  "3:00": [{
+    "duration": "30 mins",
     "session": "005",
     "full": true
   }],
-  "11:00": [{
-    "duration": "90 mins",
+  "3:30": [{
+    "duration": "30 mins",
+    "session": "006",
+    "full": true
+  }],
+  "4:00": [{
+    "duration": "30 mins",
     "session": "007",
     "full": true
   }],
-
-
-  "12:30": [{
-    "duration": "40 mins",
-    "session": "101",
-    "span": 4
-  }, {
-    "duration": "40 mins",
-    "session": "201",
-    "span": 4
-  }, {
-    "duration": "40 mins",
-    "session": "301",
-    "span": 4
-  }, {
-    "duration": "40 mins",
-    "session": "401",
-    "span": 4
-  }],
-
-
-  "13:10": [{
-    "duration": "40 mins",
-    "session": "102",
-    "span": 4
-  }, {
-    "duration": "40 mins",
-    "session": "202",
-    "span": 4
-  }, {
-    "duration": "40 mins",
-    "session": "302",
-    "span": 4
-  }, {
-    "duration": "40 mins",
-    "session": "402",
-    "span": 4
-  }],
-
-
-  "13:50": [{
-    "duration": "40 mins",
-    "session": "103",
-    "span": 4
-  }, {
-    "duration": "40 mins",
-    "session": "203",
-    "span": 4
-  }, {
-    "duration": "40 mins",
-    "session": "303",
-    "span": 4
-  }, {
-    "duration": "40 mins",
-    "session": "403",
-    "span": 4
-  }],
-
-
-  "14:30": [{
-    "duration": "40 mins",
-    "session": "104",
-    "span": 4
-  }, {
-    "duration": "40 mins",
-    "session": "204",
-    "span": 4
-  }, {
-    "duration": "40 mins",
-    "session": "304",
-    "span": 4
-  }, {
-    "duration": "40 mins",
-    "session": "404",
-    "span": 4
-  }],
-
-
-  "15:10": [{
+  "4:30": [{
     "duration": "30 mins",
     "session": "008",
     "full": true
   }],
-  "15:40": [{
+  "5:00": [{
     "duration": "30 mins",
     "session": "009",
     "full": true
   }],
-  "16:10": [{
-    "duration": "15 mins",
+  "5:30": [{
+    "duration": "60 mins",
     "session": "010",
     "full": true
   }]
