@@ -20,7 +20,7 @@ const ScheduleItem = ({session}) => {
                         const speaker = speakers[speakerKey];
                         return (
                             <div class={style.speaker}>
-                                <img class={getPhotoUrl(style.speakerPhoto, 'w_24')} src={speaker.photo} alt={speaker.name} />
+                                <img class={style.speakerPhoto} src={getPhotoUrl(speaker.photo, 'w_24')} alt={speaker.name} />
                                 <h4 class={style.speakerName}>{speaker.name}</h4>
                             </div>
                         );
