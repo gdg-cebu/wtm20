@@ -1,6 +1,6 @@
 import style from './style';
 import SpeakersBlock from '../../components/speakers-block';
-import logo from '../../images/devfest-logo.svg';
+import logo from '../../images/wtm-logo.svg';
 
 const Speakers = () => (
     <div class={style.speakers}>
