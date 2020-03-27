@@ -1,4 +1,5 @@
 import style from './style';
+import getPhotoUrl from '../../utils/get-photo-url';
 import sessions from '../../data/sessions.json';
 import speakers from '../../data/speakers.json';
 
@@ -19,7 +20,7 @@ const ScheduleItem = ({session}) => {
                         const speaker = speakers[speakerKey];
                         return (
                             <div class={style.speaker}>
-                                <img class={style.speakerPhoto} src={speaker.photo} alt={speaker.name} />
+                                <img class={getPhotoUrl(style.speakerPhoto, 'w_24')} src={speaker.photo} alt={speaker.name} />
                                 <h4 class={style.speakerName}>{speaker.name}</h4>
                             </div>
                         );

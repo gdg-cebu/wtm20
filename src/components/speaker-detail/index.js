@@ -3,8 +3,8 @@ import Dialog from 'preact-material-components/Dialog';
 import IconButton from 'preact-material-components/IconButton';
 import 'preact-material-components/Dialog/style';
 import 'preact-material-components/IconButton/style';
+import getPhotoUrl from '../../utils/get-photo-url';
 import style from './style';
-import Icon from 'preact-material-components/Icon';
 
 class SpeakerDetail extends Component {
     state = {
@@ -37,7 +37,7 @@ class SpeakerDetail extends Component {
                         </svg>
                     </IconButton>
 
-                    <img src={speaker.photo} alt={speaker.name} />
+                    <img src={getPhotoUrl(speaker.photo, 'w_120,q_85')} alt={speaker.name} />
 
                     <h2>{speaker.name}</h2>
                     <h3>{speaker.position}, {speaker.company}</h3>
