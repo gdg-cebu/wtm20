@@ -16,7 +16,7 @@ const HeroBlock = () => (
 
 			<ButtonLink className={style.button} href={event.register_url}>Register now</ButtonLink>
 			<ButtonLink className={style.button} href={raffleUrl}>Join our raffle</ButtonLink>
-			<ButtonLink className={style.button} href={livestreamUrl}>Watch us live!</ButtonLink>
+			<ButtonLink className={style.button} href={livestreamUrl} primary>Watch us live!</ButtonLink>
 		</div>
 	</section>
 );
